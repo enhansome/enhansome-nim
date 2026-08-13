@@ -118,7 +118,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-12T09:36:49Z",
+            "last_commit": "2026-08-13T07:54:18Z",
             "owner": "status-im",
             "repo": "nim-chronos",
             "stars": 412
@@ -841,7 +841,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-12T05:47:33Z",
+            "last_commit": "2026-08-13T05:48:41Z",
             "owner": "elijahr",
             "repo": "lockfreequeues",
             "stars": 50
@@ -1389,7 +1389,7 @@
             "last_commit": "2026-08-11T05:25:18Z",
             "owner": "nim-lang",
             "repo": "redis",
-            "stars": 132
+            "stars": 131
           }
         },
         {
@@ -2599,7 +2599,7 @@
             "last_commit": "2026-07-06T12:22:28Z",
             "owner": "cheatfate",
             "repo": "nimcrypto",
-            "stars": 219
+            "stars": 218
           }
         },
         {
@@ -2784,7 +2784,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-12T20:22:11Z",
+            "last_commit": "2026-08-13T06:04:59Z",
             "owner": "status-im",
             "repo": "nimbus-eth2",
             "stars": 660
@@ -2798,7 +2798,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-13T03:25:52Z",
+            "last_commit": "2026-08-13T06:55:04Z",
             "owner": "status-im",
             "repo": "nimbus-eth1",
             "stars": 625
@@ -3497,7 +3497,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-13T03:47:24Z",
+            "last_commit": "2026-08-13T05:31:40Z",
             "owner": "vacp2p",
             "repo": "nim-libp2p",
             "stars": 318
@@ -3770,7 +3770,7 @@
             "last_commit": "2026-08-06T18:45:34Z",
             "owner": "status-im",
             "repo": "nim-websock",
-            "stars": 93
+            "stars": 92
           }
         },
         {
@@ -3801,7 +3801,7 @@
           "repo_info": {
             "archived": false,
             "language": "Nim",
-            "last_commit": "2026-08-12T18:03:12Z",
+            "last_commit": "2026-08-13T04:31:04Z",
             "owner": "logos-messaging",
             "repo": "logos-delivery",
             "stars": 248
@@ -3908,7 +3908,7 @@
             "last_commit": "2026-07-26T15:23:50Z",
             "owner": "olliNiinivaara",
             "repo": "GuildenStern",
-            "stars": 99
+            "stars": 96
           }
         },
         {
@@ -3942,7 +3942,7 @@
             "last_commit": "2026-07-29T13:03:03Z",
             "owner": "dom96",
             "repo": "jester",
-            "stars": 1626
+            "stars": 1627
           }
         },
         {
@@ -4672,7 +4672,7 @@
             "last_commit": "2026-07-06T07:13:19Z",
             "owner": "PMunch",
             "repo": "futhark",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -4734,7 +4734,7 @@
             "last_commit": "2026-08-12T14:57:58Z",
             "owner": "nim-lang",
             "repo": "nimble",
-            "stars": 1399
+            "stars": 1397
           }
         },
         {
@@ -5278,7 +5278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:58:30.391Z",
+    "last_updated": "2026-08-13T08:04:03.653Z",
     "original_repository": "ringabout/awesome-nim",
     "original_repository_sha": "cc12a57c812eb7755a0ed9247c7c1110b3f7495e",
     "enhanced_repository": "enhansome/enhansome-nim",

@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-24T06:49:40Z",
+                "last_commit": "2026-08-24T12:42:19Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
                 "stars": 18184
@@ -71,11 +71,48 @@
                 "repo": "cpython",
                 "stars": 165
               }
+            },
+            {
+              "node_type": "item",
+              "title": "pylib",
+              "description": "Pure Nim implementation for Python builtins, libraries and sugars.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576904092,
+                "language": "Nim",
+                "last_commit": "2026-07-04T23:24:04Z",
+                "owner": "nimpylib",
+                "repo": "nimpylib",
+                "stars": 78
+              }
             }
           ],
           "description": "Nim provides unique features for seamless and transparent interoperability with other technologies. Some users found it useful to make other standard libraries usable from Nim.\nAlso, unlike those above, which requires runtime dependancy, some pure-Nim libraries are implemented.",
           "node_type": "group",
           "title": "Standard Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nim packages",
+              "description": "List of packages for Nimble.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6960392,
+                "language": "Nim",
+                "last_commit": "2026-08-23T19:08:52Z",
+                "owner": "nim-lang",
+                "repo": "packages",
+                "stars": 501
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Package Repositories"
         },
         {
           "children": [
@@ -125,7 +162,7 @@
                 "archived": false,
                 "id": 133633453,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:27:22Z",
+                "last_commit": "2026-08-24T12:43:41Z",
                 "owner": "status-im",
                 "repo": "nim-chronos",
                 "stars": 413
@@ -192,7 +229,7 @@
                 "archived": false,
                 "id": 381066872,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:23:45Z",
+                "last_commit": "2026-08-24T08:44:29Z",
                 "owner": "status-im",
                 "repo": "nim-taskpools",
                 "stars": 124
@@ -891,7 +928,7 @@
                 "archived": false,
                 "id": 162421682,
                 "language": "Nim",
-                "last_commit": "2026-08-24T06:47:36Z",
+                "last_commit": "2026-08-24T12:42:54Z",
                 "owner": "status-im",
                 "repo": "nim-faststreams",
                 "stars": 134
@@ -2191,7 +2228,7 @@
                 "archived": false,
                 "id": 157065921,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:20:08Z",
+                "last_commit": "2026-08-24T09:57:36Z",
                 "owner": "status-im",
                 "repo": "nim-serialization",
                 "stars": 79
@@ -2206,7 +2243,7 @@
                 "archived": false,
                 "id": 157066036,
                 "language": "Nim",
-                "last_commit": "2026-08-24T06:53:40Z",
+                "last_commit": "2026-08-24T13:40:50Z",
                 "owner": "status-im",
                 "repo": "nim-json-serialization",
                 "stars": 55
@@ -2251,7 +2288,7 @@
                 "archived": false,
                 "id": 243902039,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:42:59Z",
+                "last_commit": "2026-08-24T11:46:21Z",
                 "owner": "status-im",
                 "repo": "nim-protobuf-serialization",
                 "stars": 27
@@ -2306,6 +2343,28 @@
           "description": null,
           "node_type": "group",
           "title": "Serialization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "isocodes",
+              "description": "ISO codes for Nim (ISO 3166-1, ISO 3166-2, ISO 3166-3, ISO 15924, ISO 15924, ISO 639-2, ISO 639-5)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 384556659,
+                "language": "Nim",
+                "last_commit": "2024-11-07T21:12:05Z",
+                "owner": "kraptor",
+                "repo": "isocodes",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Standards"
         }
       ],
       "title": "Data"
@@ -2349,6 +2408,28 @@
           "description": null,
           "node_type": "group",
           "title": "String Types"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tinyslation",
+              "description": "Text string translation from free online crowdsourced API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131913537,
+                "language": "Nim",
+                "last_commit": "2019-06-06T18:13:12Z",
+                "owner": "juancarlospaco",
+                "repo": "nim-tinyslation",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Translation"
         },
         {
           "children": [
@@ -2571,6 +2652,28 @@
           "description": null,
           "node_type": "group",
           "title": "Images"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nimpdf",
+              "description": "PDF document writer, written in Nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35079023,
+                "language": "Nim",
+                "last_commit": "2025-11-26T08:15:23Z",
+                "owner": "jangko",
+                "repo": "nimpdf",
+                "stars": 187
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documents"
         }
       ],
       "title": "Multimedia"
@@ -2580,6 +2683,50 @@
       "items": [
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "symbolicnim",
+                  "description": "A symbolic library written purely in Nim.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 281759981,
+                    "language": "Nim",
+                    "last_commit": "2020-10-25T11:55:16Z",
+                    "owner": "HugoGranstrom",
+                    "repo": "symbolicnim",
+                    "stars": 40
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Symbolic"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "impulse",
+                  "description": "Impulse will be a collection of primitives for signal processing (FFT, Convolutions).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 268056469,
+                    "language": "Nim",
+                    "last_commit": "2024-12-30T09:11:08Z",
+                    "owner": "SciNim",
+                    "repo": "impulse",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "FFT"
+            },
             {
               "children": [
                 {
@@ -3006,7 +3153,7 @@
                 "archived": false,
                 "id": 141717232,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:27:52Z",
+                "last_commit": "2026-08-24T13:50:45Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth2",
                 "stars": 662
@@ -3021,7 +3168,7 @@
                 "archived": false,
                 "id": 116221698,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:06:17Z",
+                "last_commit": "2026-08-24T13:19:38Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
                 "stars": 628
@@ -3036,7 +3183,7 @@
                 "archived": false,
                 "id": 169217640,
                 "language": "Nim",
-                "last_commit": "2026-08-24T05:05:54Z",
+                "last_commit": "2026-08-24T14:02:14Z",
                 "owner": "status-im",
                 "repo": "nim-eth",
                 "stars": 93
@@ -3148,7 +3295,7 @@
                 "archived": false,
                 "id": 155870727,
                 "language": "Nim",
-                "last_commit": "2026-08-03T12:36:04Z",
+                "last_commit": "2026-08-24T14:09:20Z",
                 "owner": "status-im",
                 "repo": "nim-snappy",
                 "stars": 28
@@ -3477,6 +3624,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "wNim",
+                  "description": "Nim's Windows GUI Framework.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 147432038,
+                    "language": "Nim",
+                    "last_commit": "2024-07-19T19:48:39Z",
+                    "owner": "khchen",
+                    "repo": "wNim",
+                    "stars": 352
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Windows"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "gintro",
                   "description": "High-level GObject-Introspection based GTK3/GTK4 bindings for Nim.",
                   "children": [],
@@ -3778,7 +3947,7 @@
                 "archived": false,
                 "id": 158147798,
                 "language": "Nim",
-                "last_commit": "2026-08-24T05:19:57Z",
+                "last_commit": "2026-08-24T14:10:16Z",
                 "owner": "vacp2p",
                 "repo": "nim-libp2p",
                 "stars": 319
@@ -3838,7 +4007,7 @@
                 "archived": false,
                 "id": 343784247,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:26:55Z",
+                "last_commit": "2026-08-24T14:00:29Z",
                 "owner": "status-im",
                 "repo": "nim-presto",
                 "stars": 84
@@ -3883,7 +4052,7 @@
                 "archived": false,
                 "id": 140483370,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:13:20Z",
+                "last_commit": "2026-08-24T10:52:07Z",
                 "owner": "status-im",
                 "repo": "nim-http-utils",
                 "stars": 28
@@ -4064,7 +4233,7 @@
                     "archived": false,
                     "id": 317537483,
                     "language": "Nim",
-                    "last_commit": "2026-08-24T07:36:46Z",
+                    "last_commit": "2026-08-24T13:10:04Z",
                     "owner": "status-im",
                     "repo": "nim-websock",
                     "stars": 92
@@ -4101,7 +4270,7 @@
                     "archived": false,
                     "id": 259536860,
                     "language": "Nim",
-                    "last_commit": "2026-08-24T04:03:57Z",
+                    "last_commit": "2026-08-24T13:45:48Z",
                     "owner": "logos-messaging",
                     "repo": "logos-delivery",
                     "stars": 248
@@ -4156,11 +4325,55 @@
               "description": null,
               "node_type": "group",
               "title": "Messaging"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "nimMulticast",
+                  "description": "UDP Multicast made simple.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 96833475,
+                    "language": "Nim",
+                    "last_commit": "2024-05-20T09:03:20Z",
+                    "owner": "enthus1ast",
+                    "repo": "nimMulticast",
+                    "stars": 14
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Multicast"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Protocols"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nimquery",
+              "description": "Library for querying HTML using CSS selectors, like JavaScript's .",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100202902,
+                "language": "Nim",
+                "last_commit": "2022-12-06T20:36:52Z",
+                "owner": "GULPF",
+                "repo": "nimquery",
+                "stars": 139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HTML Parsers"
         },
         {
           "children": [
@@ -4248,6 +4461,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Geminim",
+              "description": "A Gemini server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288030212,
+                "language": "Nim",
+                "last_commit": "2022-07-09T09:15:41Z",
+                "owner": "ardek66",
+                "repo": "geminim",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gemini Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Jester",
               "description": "The sinatra-like web framework for Nim. Jester provides a DSL for quickly creating web applications in Nim.",
               "children": [],
@@ -4258,7 +4493,7 @@
                 "last_commit": "2026-07-29T13:03:03Z",
                 "owner": "dom96",
                 "repo": "jester",
-                "stars": 1628
+                "stars": 1629
               }
             },
             {
@@ -4303,7 +4538,7 @@
                 "last_commit": "2026-06-03T04:11:29Z",
                 "owner": "HapticX",
                 "repo": "happyx",
-                "stars": 666
+                "stars": 667
               }
             },
             {
@@ -4542,6 +4777,28 @@
           "description": null,
           "node_type": "group",
           "title": "Template Engines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "oauth",
+              "description": "OAuth library for Nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53285610,
+                "language": "Nim",
+                "last_commit": "2024-08-04T02:35:43Z",
+                "owner": "CORDEA",
+                "repo": "oauth",
+                "stars": 72
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Authentication"
         }
       ],
       "title": "Web"
@@ -4563,7 +4820,7 @@
                 "last_commit": "2026-06-18T11:37:32Z",
                 "owner": "Dav1dde",
                 "repo": "glad",
-                "stars": 4589
+                "stars": 4590
               }
             },
             {
@@ -4894,7 +5151,7 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-24T06:49:40Z",
+                "last_commit": "2026-08-24T12:42:19Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
                 "stars": 18184
@@ -5110,7 +5367,7 @@
                 "archived": false,
                 "id": 1299263,
                 "language": "Nim",
-                "last_commit": "2026-08-19T20:17:07Z",
+                "last_commit": "2026-08-24T08:44:55Z",
                 "owner": "nim-lang",
                 "repo": "nimble",
                 "stars": 1399
@@ -5267,7 +5524,7 @@
                 "archived": false,
                 "id": 130858472,
                 "language": "Nim",
-                "last_commit": "2026-08-24T07:40:09Z",
+                "last_commit": "2026-08-24T08:44:46Z",
                 "owner": "status-im",
                 "repo": "nim-chronicles",
                 "stars": 176
@@ -5565,7 +5822,7 @@
                 "archived": false,
                 "id": 158551734,
                 "language": "Nim",
-                "last_commit": "2026-08-24T05:00:32Z",
+                "last_commit": "2026-08-24T11:51:51Z",
                 "owner": "status-im",
                 "repo": "nim-confutils",
                 "stars": 69
@@ -5665,6 +5922,28 @@
           "description": null,
           "node_type": "group",
           "title": "Command-Line Interface Automation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nimalyzer",
+              "description": "Static code analyzer for Nim, inspired by AdaControl.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585855390,
+                "language": "Nim",
+                "last_commit": "2026-04-27T03:59:27Z",
+                "owner": "thindil",
+                "repo": "nimalyzer",
+                "stars": 45
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static Analysis"
         }
       ],
       "title": "Development Tools"
@@ -5683,7 +5962,7 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-24T06:49:40Z",
+                "last_commit": "2026-08-24T12:42:19Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
                 "stars": 18184
@@ -5729,7 +6008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:43:08.987Z",
+    "last_updated": "2026-08-24T14:12:05.758Z",
     "original_repository": "ringabout/awesome-nim",
     "original_repository_id": 287497982,
     "original_repository_sha": "8a4d980cae7bc40eea59b98f53a9fe28bcc020d3",

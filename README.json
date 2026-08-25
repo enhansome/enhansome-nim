@@ -928,7 +928,7 @@
                 "archived": false,
                 "id": 162421682,
                 "language": "Nim",
-                "last_commit": "2026-08-24T14:23:47Z",
+                "last_commit": "2026-08-25T06:53:04Z",
                 "owner": "status-im",
                 "repo": "nim-faststreams",
                 "stars": 134
@@ -3153,7 +3153,7 @@
                 "archived": false,
                 "id": 141717232,
                 "language": "Nim",
-                "last_commit": "2026-08-25T05:42:18Z",
+                "last_commit": "2026-08-25T07:25:21Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth2",
                 "stars": 662
@@ -3168,7 +3168,7 @@
                 "archived": false,
                 "id": 116221698,
                 "language": "Nim",
-                "last_commit": "2026-08-25T03:15:20Z",
+                "last_commit": "2026-08-25T06:15:35Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
                 "stars": 628
@@ -3398,7 +3398,7 @@
                 "archived": false,
                 "id": 1337752789,
                 "language": "Nim",
-                "last_commit": "2026-08-24T20:20:43Z",
+                "last_commit": "2026-08-25T06:47:14Z",
                 "owner": "gokr",
                 "repo": "niffler",
                 "stars": 1
@@ -4233,7 +4233,7 @@
                     "archived": false,
                     "id": 317537483,
                     "language": "Nim",
-                    "last_commit": "2026-08-25T05:08:35Z",
+                    "last_commit": "2026-08-25T06:56:46Z",
                     "owner": "status-im",
                     "repo": "nim-websock",
                     "stars": 92
@@ -6008,7 +6008,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:24.971Z",
+    "last_updated": "2026-08-25T07:28:47.425Z",
     "original_repository": "ringabout/awesome-nim",
     "original_repository_id": 287497982,
     "original_repository_sha": "8a4d980cae7bc40eea59b98f53a9fe28bcc020d3",

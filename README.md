@@ -223,7 +223,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### IO
 
-* [faststreams](https://github.com/status-im/nim-faststreams) ⭐ 134 | 🐛 1 | 🌐 Nim | 📅 2026-08-24 - Nearly zero-overhead input/output streams for Nim.
+* [faststreams](https://github.com/status-im/nim-faststreams) ⭐ 134 | 🐛 1 | 🌐 Nim | 📅 2026-08-25 - Nearly zero-overhead input/output streams for Nim.
 * [lockfreequeues](https://github.com/elijahr/lockfreequeues) ⭐ 50 | 🐛 3 | 🌐 Nim | 📅 2026-08-25 - Lock-free queue implementations for Nim.
 * [ioselectors](https://github.com/xflywind/ioselectors) ⭐ 25 | 🐛 2 | 🌐 Nim | 📅 2024-11-26 - The ioselectors plus for Nim.
 * [wepoll](https://github.com/xflywind/wepoll) ⭐ 23 | 🐛 1 | 🌐 Nim | 📅 2024-11-26 - Windows epoll wrapper for Nim.
@@ -468,7 +468,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Blockchain
 
-* [nimbus-eth2](https://github.com/status-im/nimbus-eth2) ⭐ 662 | 🐛 226 | 🌐 Nim | 📅 2026-08-25 - Efficient implementation of the Ethereum 2.0 blockchain.
+* [nimbus-eth2](https://github.com/status-im/nimbus-eth2) ⭐ 662 | 🐛 227 | 🌐 Nim | 📅 2026-08-25 - Efficient implementation of the Ethereum 2.0 blockchain.
 * [nimbus-eth1](https://github.com/status-im/nimbus-eth1) ⭐ 628 | 🐛 108 | 🌐 Nim | 📅 2026-08-25 - An Ethereum 1.0 and 2.0 client for resource-restricted devices.
 * [eth](https://github.com/status-im/nim-eth) ⭐ 93 | 🐛 45 | 🌐 Nim | 📅 2026-08-25 - Common utilities for Ethereum.
 * [evmc](https://github.com/status-im/nim-evmc) ⭐ 15 | 🐛 1 | 🌐 Nim | 📅 2025-02-17 - Ethereum VM binary compatible interface.
@@ -497,7 +497,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [Nimmm](https://github.com/joachimschmidt557/nimmm) ⭐ 51 | 🐛 1 | 🌐 Nim | 📅 2026-05-30 - A terminal file manager for Linux.
 * [pnimrp](https://github.com/bloomingchad/pnimrp) ⭐ 5 | 🐛 2 | 🌐 Nim | 📅 2026-08-15 - Stream your favorite radio stations at the comfort of your terminal.
 * [prettyterm](https://github.com/CodeLibraty/prettyterm) ⭐ 3 | 🐛 0 | 🌐 Nim | 📅 2025-08-13 - Library for creating beautiful terminal interfaces in Nim.
-* [niffler](https://github.com/gokr/niffler) ⭐ 1 | 🐛 0 | 🌐 Nim | 📅 2026-08-24 - Command line AI assistant written in Nim.
+* [niffler](https://github.com/gokr/niffler) ⭐ 1 | 🐛 0 | 🌐 Nim | 📅 2026-08-25 - Command line AI assistant written in Nim.
 * [pager](https://git.sr.ht/~reesmichael1/nim-pager) - A simple command line pager library, written in Nim.
 
 ### Design
@@ -589,7 +589,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 * [ws](https://github.com/treeform/ws) ⭐ 265 | 🐛 8 | 🌐 Nim | 📅 2026-05-25 - Simple WebSocket library for Nim.
 * [websocket.nim](https://github.com/niv/websocket.nim) ⭐ 103 | 🐛 8 | 🌐 Nim | 📅 2022-12-04 - WebSockets for Nim.
-* [websock](https://github.com/status-im/nim-websock) ⭐ 92 | 🐛 17 | 🌐 Nim | 📅 2026-08-25 - An implementation of the WebSocket protocol for Nim.
+* [websock](https://github.com/status-im/nim-websock) ⭐ 92 | 🐛 18 | 🌐 Nim | 📅 2026-08-25 - An implementation of the WebSocket protocol for Nim.
 * [news](https://github.com/Tormund/news) ⭐ 36 | 🐛 0 | 🌐 Nim | 📅 2023-04-01 - Nim Easy WebSocket. Based on ws.
 * [jswebsockets](https://juancarlospaco.github.io/nodejs/nodejs/jswebsockets) - WebSockets optimized for JavaScript targets.
 

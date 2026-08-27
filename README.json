@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-26T06:52:32Z",
+                "last_commit": "2026-08-26T16:27:43Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18189
+                "stars": 18194
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-25T11:42:02Z",
                 "owner": "arnetheduck",
                 "repo": "nlvm",
-                "stars": 777
+                "stars": 776
               }
             }
           ],
@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 6960392,
                 "language": "Nim",
-                "last_commit": "2026-08-26T01:14:06Z",
+                "last_commit": "2026-08-26T13:37:15Z",
                 "owner": "nim-lang",
                 "repo": "packages",
                 "stars": 501
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 99487140,
                 "language": "Nim",
-                "last_commit": "2026-08-25T19:07:52Z",
+                "last_commit": "2026-08-26T19:13:05Z",
                 "owner": "fox0430",
                 "repo": "moe",
                 "stars": 718
@@ -162,7 +162,7 @@
                 "archived": false,
                 "id": 133633453,
                 "language": "Nim",
-                "last_commit": "2026-08-25T07:31:22Z",
+                "last_commit": "2026-08-27T09:29:01Z",
                 "owner": "status-im",
                 "repo": "nim-chronos",
                 "stars": 413
@@ -943,7 +943,7 @@
                 "archived": false,
                 "id": 276770166,
                 "language": "Nim",
-                "last_commit": "2026-08-26T05:27:19Z",
+                "last_commit": "2026-08-27T07:55:47Z",
                 "owner": "elijahr",
                 "repo": "lockfreequeues",
                 "stars": 50
@@ -1443,7 +1443,7 @@
             "archived": false,
             "id": 56346761,
             "language": "Nim",
-            "last_commit": "2026-08-24T20:27:51Z",
+            "last_commit": "2026-08-27T01:43:32Z",
             "owner": "jcosborn",
             "repo": "qex",
             "stars": 60
@@ -1633,7 +1633,7 @@
                     "archived": false,
                     "id": 119156264,
                     "language": "Nim",
-                    "last_commit": "2026-08-26T06:07:41Z",
+                    "last_commit": "2026-08-26T17:01:23Z",
                     "owner": "status-im",
                     "repo": "nim-rocksdb",
                     "stars": 41
@@ -1678,7 +1678,7 @@
                     "archived": false,
                     "id": 1290453609,
                     "language": "Nim",
-                    "last_commit": "2026-08-25T13:07:00Z",
+                    "last_commit": "2026-08-27T07:45:03Z",
                     "owner": "puffball1567",
                     "repo": "koutendb",
                     "stars": 16
@@ -3153,7 +3153,7 @@
                 "archived": false,
                 "id": 141717232,
                 "language": "Nim",
-                "last_commit": "2026-08-26T05:43:19Z",
+                "last_commit": "2026-08-27T08:16:46Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth2",
                 "stars": 662
@@ -3168,7 +3168,7 @@
                 "archived": false,
                 "id": 116221698,
                 "language": "Nim",
-                "last_commit": "2026-08-26T06:16:53Z",
+                "last_commit": "2026-08-27T10:16:49Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
                 "stars": 628
@@ -3183,7 +3183,7 @@
                 "archived": false,
                 "id": 169217640,
                 "language": "Nim",
-                "last_commit": "2026-08-25T04:27:05Z",
+                "last_commit": "2026-08-27T07:09:19Z",
                 "owner": "status-im",
                 "repo": "nim-eth",
                 "stars": 93
@@ -3398,7 +3398,7 @@
                 "archived": false,
                 "id": 1337752789,
                 "language": "Nim",
-                "last_commit": "2026-08-25T06:47:14Z",
+                "last_commit": "2026-08-26T23:35:33Z",
                 "owner": "gokr",
                 "repo": "niffler",
                 "stars": 1
@@ -3522,7 +3522,7 @@
                     "last_commit": "2026-07-20T13:57:14Z",
                     "owner": "can-lehmann",
                     "repo": "owlkettle",
-                    "stars": 450
+                    "stars": 451
                   }
                 },
                 {
@@ -3947,7 +3947,7 @@
                 "archived": false,
                 "id": 158147798,
                 "language": "Nim",
-                "last_commit": "2026-08-26T05:10:36Z",
+                "last_commit": "2026-08-27T09:37:05Z",
                 "owner": "vacp2p",
                 "repo": "nim-libp2p",
                 "stars": 320
@@ -4270,7 +4270,7 @@
                     "archived": false,
                     "id": 259536860,
                     "language": "Nim",
-                    "last_commit": "2026-08-26T06:43:04Z",
+                    "last_commit": "2026-08-27T11:30:54Z",
                     "owner": "logos-messaging",
                     "repo": "logos-delivery",
                     "stars": 248
@@ -4508,7 +4508,7 @@
                 "last_commit": "2026-08-19T00:41:37Z",
                 "owner": "planety",
                 "repo": "prologue",
-                "stars": 1349
+                "stars": 1350
               }
             },
             {
@@ -4628,7 +4628,7 @@
                 "last_commit": "2026-07-28T09:38:43Z",
                 "owner": "canermastan",
                 "repo": "jazzy-framework",
-                "stars": 56
+                "stars": 57
               }
             },
             {
@@ -4640,7 +4640,7 @@
                 "archived": false,
                 "id": 391276263,
                 "language": "Nim",
-                "last_commit": "2026-08-19T18:49:54Z",
+                "last_commit": "2026-08-27T09:05:28Z",
                 "owner": "supranim",
                 "repo": "supranim",
                 "stars": 41
@@ -4752,7 +4752,7 @@
                 "archived": false,
                 "id": 456939074,
                 "language": "Nim",
-                "last_commit": "2026-08-20T10:10:02Z",
+                "last_commit": "2026-08-26T22:29:11Z",
                 "owner": "tim-engine",
                 "repo": "tim",
                 "stars": 68
@@ -4969,7 +4969,7 @@
                 "last_commit": "2025-11-18T16:58:41Z",
                 "owner": "jmgomez",
                 "repo": "NimForUE",
-                "stars": 543
+                "stars": 544
               }
             },
             {
@@ -5151,10 +5151,10 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-26T06:52:32Z",
+                "last_commit": "2026-08-26T16:27:43Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18189
+                "stars": 18194
               }
             },
             {
@@ -5370,7 +5370,7 @@
                 "last_commit": "2026-08-25T09:10:23Z",
                 "owner": "nim-lang",
                 "repo": "nimble",
-                "stars": 1399
+                "stars": 1400
               }
             },
             {
@@ -5457,7 +5457,7 @@
                 "archived": false,
                 "id": 189757977,
                 "language": "Nim",
-                "last_commit": "2026-08-23T22:14:34Z",
+                "last_commit": "2026-08-26T17:27:35Z",
                 "owner": "treeform",
                 "repo": "nimby",
                 "stars": 44
@@ -5962,10 +5962,10 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-26T06:52:32Z",
+                "last_commit": "2026-08-26T16:27:43Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18189
+                "stars": 18194
               }
             },
             {
@@ -6008,9 +6008,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:30:19.401Z",
-    "original_repository": "ringabout/awesome-nim",
-    "original_repository_id": 287497982,
+    "last_updated": "2026-08-27T11:52:15.429Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 287497982,
+      "language": "Nim",
+      "last_commit": "2026-08-24T04:49:06Z",
+      "owner": "ringabout",
+      "repo": "awesome-nim",
+      "stars": 1520
+    },
     "original_repository_sha": "8a4d980cae7bc40eea59b98f53a9fe28bcc020d3",
     "enhanced_repository": "enhansome/enhansome-nim",
     "enhanced_repository_description": null,

@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-27T17:46:54Z",
+                "last_commit": "2026-08-28T18:04:46Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18194
-              }
+                "stars": 18197
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "arnetheduck",
                 "repo": "nlvm",
                 "stars": 776
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "juancarlospaco",
                 "repo": "nodejs",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "juancarlospaco",
                 "repo": "cpython",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "nimpylib",
                 "repo": "nimpylib",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": "Nim provides unique features for seamless and transparent interoperability with other technologies. Some users found it useful to make other standard libraries usable from Nim.\nAlso, unlike those above, which requires runtime dependancy, some pure-Nim libraries are implemented.",
@@ -103,11 +108,12 @@
                 "archived": false,
                 "id": 6960392,
                 "language": "Nim",
-                "last_commit": "2026-08-26T13:37:15Z",
+                "last_commit": "2026-08-28T11:42:05Z",
                 "owner": "nim-lang",
                 "repo": "packages",
                 "stars": 501
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -125,11 +131,12 @@
                 "archived": false,
                 "id": 99487140,
                 "language": "Nim",
-                "last_commit": "2026-08-27T16:32:06Z",
+                "last_commit": "2026-08-28T09:31:39Z",
                 "owner": "fox0430",
                 "repo": "moe",
                 "stars": 718
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "Nimaoth",
                 "repo": "Nev",
                 "stars": 199
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -162,11 +170,12 @@
                 "archived": false,
                 "id": 133633453,
                 "language": "Nim",
-                "last_commit": "2026-08-27T09:29:01Z",
+                "last_commit": "2026-08-28T13:42:05Z",
                 "owner": "status-im",
                 "repo": "nim-chronos",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -181,7 +190,8 @@
                 "owner": "disruptek",
                 "repo": "cps",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -203,7 +213,8 @@
                 "owner": "mratsim",
                 "repo": "weave",
                 "stars": 585
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -218,7 +229,8 @@
                 "owner": "Araq",
                 "repo": "malebolgia",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -233,7 +245,8 @@
                 "owner": "status-im",
                 "repo": "nim-taskpools",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -248,7 +261,8 @@
                 "owner": "mratsim",
                 "repo": "Synthesis",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -263,7 +277,8 @@
                 "owner": "planetis-m",
                 "repo": "sync",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -278,7 +293,8 @@
                 "owner": "genotrance",
                 "repo": "shared",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -293,7 +309,8 @@
                 "owner": "mikra01",
                 "repo": "timerpool",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -315,7 +332,8 @@
                 "owner": "arnetheduck",
                 "repo": "nim-results",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -330,7 +348,8 @@
                 "owner": "logos-storage",
                 "repo": "questionable",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -345,7 +364,8 @@
                 "owner": "PMunch",
                 "repo": "nim-optionsutils",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -367,7 +387,8 @@
                 "owner": "Udiknedormin",
                 "repo": "NimContracts",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "juancarlospaco",
                 "repo": "nim-contra",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -404,7 +426,8 @@
                 "owner": "jjv360",
                 "repo": "nim-classes",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -419,7 +442,8 @@
                 "owner": "bluenote10",
                 "repo": "oop_utils",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -434,7 +458,8 @@
                 "owner": "andreaferretti",
                 "repo": "interfaced",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -449,7 +474,8 @@
                 "owner": "beef331",
                 "repo": "traitor",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -464,7 +490,8 @@
                 "owner": "nigredo-tori",
                 "repo": "classy",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -486,7 +513,8 @@
                 "owner": "zero-functional",
                 "repo": "zero-functional",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -501,7 +529,8 @@
                 "owner": "vegansk",
                 "repo": "nimfp",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -516,7 +545,8 @@
                 "owner": "haltcase",
                 "repo": "cascade",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -531,7 +561,8 @@
                 "owner": "CosmicToast",
                 "repo": "pipe",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -546,7 +577,8 @@
                 "owner": "ShalokShalom",
                 "repo": "nim-pipexp",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -568,7 +600,8 @@
                 "owner": "zevv",
                 "repo": "npeg",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -583,7 +616,8 @@
                 "owner": "andreaferretti",
                 "repo": "patty",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -598,7 +632,8 @@
                 "owner": "nitely",
                 "repo": "nim-regex",
                 "stars": 244
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -613,7 +648,8 @@
                 "owner": "krux02",
                 "repo": "ast-pattern-matching",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -628,7 +664,8 @@
                 "owner": "alehander92",
                 "repo": "gara",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -643,7 +680,8 @@
                 "owner": "haltcase",
                 "repo": "glob",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -658,7 +696,8 @@
                 "owner": "khchen",
                 "repo": "tinyre",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -673,7 +712,8 @@
                 "owner": "greencardamom",
                 "repo": "awk",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -688,7 +728,8 @@
                 "owner": "Beglaa",
                 "repo": "razaberi",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -710,7 +751,8 @@
                 "owner": "narimiran",
                 "repo": "itertools",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -725,7 +767,8 @@
                 "owner": "hamidb80",
                 "repo": "iterrr",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -740,7 +783,8 @@
                 "owner": "mratsim",
                 "repo": "loop-fusion",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -755,7 +799,8 @@
                 "owner": "planetis-m",
                 "repo": "looper",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -777,7 +822,8 @@
                 "owner": "zevv",
                 "repo": "with",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -792,7 +838,8 @@
                 "owner": "andreaferretti",
                 "repo": "memo",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -807,7 +854,8 @@
                 "owner": "PMunch",
                 "repo": "macroutils",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -822,7 +870,8 @@
                 "owner": "technicallyagd",
                 "repo": "unpack",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -837,7 +886,8 @@
                 "owner": "FemtoEmacs",
                 "repo": "nimacros",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -865,7 +915,8 @@
                 "owner": "khchen",
                 "repo": "winim",
                 "stars": 515
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -880,7 +931,8 @@
                 "owner": "euantorano",
                 "repo": "serial.nim",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -895,7 +947,8 @@
                 "owner": "Electric-Blue",
                 "repo": "NimBluez",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -910,7 +963,8 @@
                 "owner": "euantorano",
                 "repo": "tempdir.nim",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -932,7 +986,8 @@
                 "owner": "status-im",
                 "repo": "nim-faststreams",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -943,11 +998,12 @@
                 "archived": false,
                 "id": 276770166,
                 "language": "Nim",
-                "last_commit": "2026-08-27T07:55:47Z",
+                "last_commit": "2026-08-28T07:57:12Z",
                 "owner": "elijahr",
                 "repo": "lockfreequeues",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -962,7 +1018,8 @@
                 "owner": "ringabout",
                 "repo": "ioselectors",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1034,8 @@
                 "owner": "ringabout",
                 "repo": "wepoll",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -999,7 +1057,8 @@
                 "owner": "Vindaar",
                 "repo": "shell",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1014,7 +1073,8 @@
                 "owner": "soasme",
                 "repo": "nim-schedules",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1029,7 +1089,8 @@
                 "owner": "johnscillieri",
                 "repo": "psutil-nim",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1044,7 +1105,8 @@
                 "owner": "status-im",
                 "repo": "nim-daemon",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -1066,7 +1128,8 @@
                 "owner": "treeform",
                 "repo": "chrono",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1144,8 @@
                 "owner": "GULPF",
                 "repo": "timezones",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1160,8 @@
                 "owner": "juancarlospaco",
                 "repo": "nim-datetime2human",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -1118,7 +1183,8 @@
                 "owner": "oprypin",
                 "repo": "nim-random",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1199,8 @@
                 "owner": "andreaferretti",
                 "repo": "alea",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1148,7 +1215,8 @@
                 "owner": "euantorano",
                 "repo": "sysrandom.nim",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1163,7 +1231,8 @@
                 "owner": "JeffersonLab",
                 "repo": "drand48",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -1185,7 +1254,8 @@
                 "owner": "PMunch",
                 "repo": "nimcr",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1200,7 +1270,8 @@
                 "owner": "Jeff-Ciesielski",
                 "repo": "nimr",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1286,8 @@
                 "owner": "jabbalaci",
                 "repo": "nimbang",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -1243,7 +1315,8 @@
                 "owner": "twekkel",
                 "repo": "node_exporter-lite",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1258,7 +1331,8 @@
                 "owner": "twekkel",
                 "repo": "unbound_exporter-lite",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -1284,7 +1358,8 @@
             "owner": "leeooox",
             "repo": "nimvisa",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T18:59:49.211Z"
         },
         {
           "node_type": "item",
@@ -1299,7 +1374,8 @@
             "owner": "leeooox",
             "repo": "ftd2xx",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T18:59:49.211Z"
         },
         {
           "children": [
@@ -1316,7 +1392,8 @@
                 "owner": "elcritch",
                 "repo": "nesper",
                 "stars": 245
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1331,7 +1408,8 @@
                 "owner": "PMunch",
                 "repo": "ratel",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1424,8 @@
                 "owner": "gokr",
                 "repo": "ardunimo",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1361,7 +1440,8 @@
                 "owner": "Abathargh",
                 "repo": "avr_io",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1376,7 +1456,8 @@
                 "owner": "xyz32",
                 "repo": "boneIO",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1391,7 +1472,8 @@
                 "owner": "mwbrown",
                 "repo": "nim_stm32f3",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1406,7 +1488,8 @@
                 "owner": "Abathargh",
                 "repo": "avrman",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -1432,7 +1515,8 @@
             "owner": "SciNim",
             "repo": "Unchained",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T18:59:49.211Z"
         },
         {
           "node_type": "item",
@@ -1447,7 +1531,8 @@
             "owner": "jcosborn",
             "repo": "qex",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T18:59:49.211Z"
         },
         {
           "node_type": "item",
@@ -1462,7 +1547,8 @@
             "owner": "treeform",
             "repo": "orbits",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T18:59:49.211Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1563,8 @@
             "owner": "Udiknedormin",
             "repo": "NimUnits",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T18:59:49.211Z"
         },
         {
           "node_type": "item",
@@ -1492,7 +1579,8 @@
             "owner": "mjendrusch",
             "repo": "metric",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T18:59:49.211Z"
         }
       ],
       "title": "Science"
@@ -1517,7 +1605,8 @@
                     "owner": "h3rald",
                     "repo": "litestore",
                     "stars": 222
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1532,7 +1621,8 @@
                     "owner": "nim-lang",
                     "repo": "redis",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1547,7 +1637,8 @@
                     "owner": "SSPkrolik",
                     "repo": "nimongo",
                     "stars": 101
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1562,7 +1653,8 @@
                     "owner": "GULPF",
                     "repo": "tiny_sqlite",
                     "stars": 86
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1577,7 +1669,8 @@
                     "owner": "cheatfate",
                     "repo": "asyncpg",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1592,7 +1685,8 @@
                     "owner": "olliNiinivaara",
                     "repo": "SQLiteral",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1607,7 +1701,8 @@
                     "owner": "capocasa",
                     "repo": "limdb",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1622,7 +1717,8 @@
                     "owner": "mashingan",
                     "repo": "anonimongo",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1633,11 +1729,12 @@
                     "archived": false,
                     "id": 119156264,
                     "language": "Nim",
-                    "last_commit": "2026-08-27T15:18:03Z",
+                    "last_commit": "2026-08-28T14:32:57Z",
                     "owner": "status-im",
                     "repo": "nim-rocksdb",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1652,7 +1749,8 @@
                     "owner": "bung87",
                     "repo": "amysql",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1667,7 +1765,8 @@
                     "owner": "nim-lang",
                     "repo": "db_connector",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1678,11 +1777,12 @@
                     "archived": false,
                     "id": 1290453609,
                     "language": "Nim",
-                    "last_commit": "2026-08-27T07:45:03Z",
+                    "last_commit": "2026-08-28T18:31:39Z",
                     "owner": "puffball1567",
                     "repo": "koutendb",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1697,7 +1797,8 @@
                     "owner": "Xkonti",
                     "repo": "surrealdb.nim",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1712,7 +1813,8 @@
                     "owner": "tulayang",
                     "repo": "asyncmysql",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1727,7 +1829,8 @@
                     "owner": "hamidb80",
                     "repo": "mycouch",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1742,7 +1845,8 @@
                     "owner": "status-im",
                     "repo": "nim-sqlcipher",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1757,7 +1861,8 @@
                     "owner": "mahlonsmith",
                     "repo": "nim-ladybug",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -1779,7 +1884,8 @@
                     "owner": "moigagoo",
                     "repo": "norm",
                     "stars": 414
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1794,7 +1900,8 @@
                     "owner": "Araq",
                     "repo": "ormin",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1809,7 +1916,8 @@
                     "owner": "dumblepy",
                     "repo": "nim-allographer",
                     "stars": 170
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -1824,7 +1932,8 @@
                     "owner": "juancarlospaco",
                     "repo": "nim-gatabase",
                     "stars": 123
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -1851,7 +1960,8 @@
                 "owner": "jblindsay",
                 "repo": "kdtree",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1866,7 +1976,8 @@
                 "owner": "olliNiinivaara",
                 "repo": "StashTable",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1881,7 +1992,8 @@
                 "owner": "StefanSalewski",
                 "repo": "RTree",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1896,7 +2008,8 @@
                 "owner": "Nycto",
                 "repo": "RBTreeNim",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1911,7 +2024,8 @@
                 "owner": "narimiran",
                 "repo": "sorta",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1926,7 +2040,8 @@
                 "owner": "bluenote10",
                 "repo": "nim-heap",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1941,7 +2056,8 @@
                 "owner": "MarcAzar",
                 "repo": "BitVector",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1956,7 +2072,8 @@
                 "owner": "boydgreenfield",
                 "repo": "nimrod-bloom",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1971,7 +2088,8 @@
                 "owner": "Vladar4",
                 "repo": "FastStack",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -1986,7 +2104,8 @@
                 "owner": "Nycto",
                 "repo": "QuadtreeNim",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2001,7 +2120,8 @@
                 "owner": "MarcAzar",
                 "repo": "BipBuffer",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2016,7 +2136,8 @@
                 "owner": "StefanSalewski",
                 "repo": "minmaxheap",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2038,7 +2159,8 @@
                 "owner": "bluenote10",
                 "repo": "NimData",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2053,7 +2175,8 @@
                 "owner": "SciNim",
                 "repo": "Datamancer",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2068,7 +2191,8 @@
                 "owner": "Vindaar",
                 "repo": "nimhdf5",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2083,7 +2207,8 @@
                 "owner": "Vindaar",
                 "repo": "nim-mpfit",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2098,7 +2223,8 @@
                 "owner": "qqtop",
                 "repo": "nimdataframe",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2120,7 +2246,8 @@
                 "owner": "flyx",
                 "repo": "NimYAML",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2135,7 +2262,8 @@
                 "owner": "NimParsers",
                 "repo": "parsetoml",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2150,7 +2278,8 @@
                 "owner": "sealmove",
                 "repo": "binarylang",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2165,7 +2294,8 @@
                 "owner": "TelegramXPlus",
                 "repo": "beautifulparser",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2180,7 +2310,8 @@
                 "owner": "openpeeps",
                 "repo": "marvdown",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2202,7 +2333,8 @@
                 "owner": "PMunch",
                 "repo": "protobuf-nim",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2217,7 +2349,8 @@
                 "owner": "treeform",
                 "repo": "flatty",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2232,7 +2365,8 @@
                 "owner": "status-im",
                 "repo": "nim-serialization",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2247,7 +2381,8 @@
                 "owner": "status-im",
                 "repo": "nim-json-serialization",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2262,7 +2397,8 @@
                 "owner": "disruptek",
                 "repo": "frosty",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2277,7 +2413,8 @@
                 "owner": "status-im",
                 "repo": "nim-toml-serialization",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2292,7 +2429,8 @@
                 "owner": "status-im",
                 "repo": "nim-protobuf-serialization",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2307,7 +2445,8 @@
                 "owner": "planetis-m",
                 "repo": "bingo",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2322,7 +2461,8 @@
                 "owner": "status-im",
                 "repo": "nim-ssz-serialization",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2337,7 +2477,8 @@
                 "owner": "mahlonsmith",
                 "repo": "nim-tnetstring",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2359,7 +2500,8 @@
                 "owner": "kraptor",
                 "repo": "isocodes",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2387,7 +2529,8 @@
                 "owner": "planetis-m",
                 "repo": "ssostrings",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2402,7 +2545,8 @@
                 "owner": "planetis-m",
                 "repo": "cowstrings",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2424,7 +2568,8 @@
                 "owner": "juancarlospaco",
                 "repo": "nim-tinyslation",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2446,7 +2591,8 @@
                 "owner": "h3rald",
                 "repo": "hastyscribe",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2461,7 +2607,8 @@
                 "owner": "soasme",
                 "repo": "nim-markdown",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2476,7 +2623,8 @@
                 "owner": "madprops",
                 "repo": "lester",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2504,7 +2652,8 @@
                 "owner": "vitreo12",
                 "repo": "omni",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2519,7 +2668,8 @@
                 "owner": "paranim",
                 "repo": "paramidi",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2534,7 +2684,8 @@
                 "owner": "jiro4989",
                 "repo": "wave",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2549,7 +2700,8 @@
                 "owner": "paranim",
                 "repo": "parasound",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2564,7 +2716,8 @@
                 "owner": "SpotlightKid",
                 "repo": "jacket",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2586,7 +2739,8 @@
                 "owner": "treeform",
                 "repo": "pixie",
                 "stars": 810
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2601,7 +2755,8 @@
                 "owner": "bluenote10",
                 "repo": "NimSvg",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2616,7 +2771,8 @@
                 "owner": "jangko",
                 "repo": "nimPNG",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2631,7 +2787,8 @@
                 "owner": "jangko",
                 "repo": "nimBMP",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2646,7 +2803,8 @@
                 "owner": "jiro4989",
                 "repo": "pnm",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2668,7 +2826,8 @@
                 "owner": "jangko",
                 "repo": "nimpdf",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2698,7 +2857,8 @@
                     "owner": "HugoGranstrom",
                     "repo": "symbolicnim",
                     "stars": 40
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -2720,7 +2880,8 @@
                     "owner": "SciNim",
                     "repo": "impulse",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -2742,7 +2903,8 @@
                     "owner": "treeform",
                     "repo": "vmath",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -2757,7 +2919,8 @@
                     "owner": "SciNim",
                     "repo": "vectorize",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -2779,7 +2942,8 @@
                     "owner": "andreaferretti",
                     "repo": "neo",
                     "stars": 258
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -2794,7 +2958,8 @@
                     "owner": "planetis-m",
                     "repo": "manu",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -2809,7 +2974,8 @@
                     "owner": "Vindaar",
                     "repo": "nimnlopt",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -2836,7 +3002,8 @@
                 "owner": "mratsim",
                 "repo": "Arraymancer",
                 "stars": 1407
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2851,7 +3018,8 @@
                 "owner": "sinkingsugar",
                 "repo": "nimtorch",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2866,7 +3034,8 @@
                 "owner": "mratsim",
                 "repo": "laser",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2888,7 +3057,8 @@
                 "owner": "nim-lang",
                 "repo": "bigints",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2903,7 +3073,8 @@
                 "owner": "status-im",
                 "repo": "nim-stint",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2918,7 +3089,8 @@
                 "owner": "SciNim",
                 "repo": "theo",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -2940,7 +3112,8 @@
                 "owner": "mratsim",
                 "repo": "constantine",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2955,7 +3128,8 @@
                 "owner": "cheatfate",
                 "repo": "nimcrypto",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2970,7 +3144,8 @@
                 "owner": "jangko",
                 "repo": "nimAES",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -2985,7 +3160,8 @@
                 "owner": "khchen",
                 "repo": "hashlib",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3000,7 +3176,8 @@
                 "owner": "status-im",
                 "repo": "nim-blscurve",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3015,7 +3192,8 @@
                 "owner": "OpenSystemsLab",
                 "repo": "xxhash.nim",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3030,7 +3208,8 @@
                 "owner": "xxtea",
                 "repo": "xxtea-nim",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3045,7 +3224,8 @@
                 "owner": "juancarlospaco",
                 "repo": "nim-crc32",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3060,7 +3240,8 @@
                 "owner": "MarcAzar",
                 "repo": "RollingHash",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3075,7 +3256,8 @@
                 "owner": "markspanbroek",
                 "repo": "nimpc",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3090,7 +3272,8 @@
                 "owner": "cwpearson",
                 "repo": "nim-murmurhash",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3105,7 +3288,8 @@
                 "owner": "apense",
                 "repo": "shimsham",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3120,7 +3304,8 @@
                 "owner": "status-im",
                 "repo": "nim-bncurve",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3135,7 +3320,8 @@
                 "owner": "LucaWolf",
                 "repo": "des.nim",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -3153,11 +3339,12 @@
                 "archived": false,
                 "id": 141717232,
                 "language": "Nim",
-                "last_commit": "2026-08-27T17:23:51Z",
+                "last_commit": "2026-08-28T17:09:03Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth2",
                 "stars": 661
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3168,11 +3355,12 @@
                 "archived": false,
                 "id": 116221698,
                 "language": "Nim",
-                "last_commit": "2026-08-27T10:16:49Z",
+                "last_commit": "2026-08-28T18:12:58Z",
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
                 "stars": 628
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3187,7 +3375,8 @@
                 "owner": "status-im",
                 "repo": "nim-eth",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3202,7 +3391,8 @@
                 "owner": "status-im",
                 "repo": "nim-evmc",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3217,7 +3407,8 @@
                 "owner": "status-im",
                 "repo": "nim-ethash",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3232,7 +3423,8 @@
                 "owner": "logos-storage",
                 "repo": "nim-contract-abi",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -3254,7 +3446,8 @@
                 "owner": "guzba",
                 "repo": "zippy",
                 "stars": 282
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3269,7 +3462,8 @@
                 "owner": "guzba",
                 "repo": "supersnappy",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3284,7 +3478,8 @@
                 "owner": "nim-lang",
                 "repo": "zip",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3299,7 +3494,8 @@
                 "owner": "status-im",
                 "repo": "nim-snappy",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -3327,7 +3523,8 @@
                 "owner": "johnnovak",
                 "repo": "illwill",
                 "stars": 467
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3342,7 +3539,8 @@
                 "owner": "joereynolds",
                 "repo": "jn",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3357,7 +3555,8 @@
                 "owner": "joachimschmidt557",
                 "repo": "nimmm",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3372,7 +3571,8 @@
                 "owner": "antonl-dev",
                 "repo": "pnimrp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3387,7 +3587,8 @@
                 "owner": "CodeLibraty",
                 "repo": "prettyterm",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3398,11 +3599,12 @@
                 "archived": false,
                 "id": 1337752789,
                 "language": "Nim",
-                "last_commit": "2026-08-26T23:35:33Z",
+                "last_commit": "2026-08-27T23:21:57Z",
                 "owner": "gokr",
                 "repo": "niffler",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -3424,7 +3626,8 @@
                 "owner": "treeform",
                 "repo": "typography",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3439,7 +3642,8 @@
                 "owner": "treeform",
                 "repo": "chroma",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3454,7 +3658,8 @@
                 "owner": "exelotl",
                 "repo": "trick",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3469,7 +3674,8 @@
                 "owner": "farias-hecdin",
                 "repo": "HexToAnsi",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -3493,7 +3699,8 @@
                     "owner": "yglukhov",
                     "repo": "nimx",
                     "stars": 1190
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3508,7 +3715,8 @@
                     "owner": "simonkrauter",
                     "repo": "NiGui",
                     "stars": 784
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3523,7 +3731,8 @@
                     "owner": "can-lehmann",
                     "repo": "owlkettle",
                     "stars": 451
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3538,7 +3747,8 @@
                     "owner": "nim-lang",
                     "repo": "sdl2",
                     "stars": 254
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3553,7 +3763,8 @@
                     "owner": "nim-lang",
                     "repo": "ui",
                     "stars": 244
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3568,7 +3779,8 @@
                     "owner": "neroist",
                     "repo": "uing",
                     "stars": 192
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3583,7 +3795,8 @@
                     "owner": "Vladar4",
                     "repo": "sdl2_nim",
                     "stars": 148
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3598,7 +3811,8 @@
                     "owner": "nim-lang",
                     "repo": "iup",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3613,7 +3827,8 @@
                     "owner": "neroist",
                     "repo": "libtray",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -3635,7 +3850,8 @@
                     "owner": "khchen",
                     "repo": "wNim",
                     "stars": 352
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -3657,7 +3873,8 @@
                     "owner": "StefanSalewski",
                     "repo": "gintro",
                     "stars": 301
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3672,7 +3889,8 @@
                     "owner": "filcuc",
                     "repo": "nimqml",
                     "stars": 174
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -3694,7 +3912,8 @@
                     "owner": "Niminem",
                     "repo": "Neel",
                     "stars": 252
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3709,7 +3928,8 @@
                     "owner": "webui-dev",
                     "repo": "nim-webui",
                     "stars": 164
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3724,7 +3944,8 @@
                     "owner": "marcomq",
                     "repo": "nimview",
                     "stars": 163
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3739,7 +3960,8 @@
                     "owner": "juancarlospaco",
                     "repo": "webgui",
                     "stars": 146
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3754,7 +3976,8 @@
                     "owner": "neroist",
                     "repo": "webview",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3769,7 +3992,8 @@
                     "owner": "treeform",
                     "repo": "fidget2",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -3791,7 +4015,8 @@
                     "owner": "nimgl",
                     "repo": "imgui",
                     "stars": 151
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3806,7 +4031,8 @@
                     "owner": "johnnovak",
                     "repo": "koi",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -3821,7 +4047,8 @@
                     "owner": "krux02",
                     "repo": "nimAntTweakBar",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -3848,7 +4075,8 @@
                 "owner": "Vindaar",
                 "repo": "ggplotnim",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3863,7 +4091,8 @@
                 "owner": "SciNim",
                 "repo": "nim-plotly",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3878,7 +4107,8 @@
                 "owner": "stisa",
                 "repo": "graph",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3893,7 +4123,8 @@
                 "owner": "Aveheuzed",
                 "repo": "nimgraphviz",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3908,7 +4139,8 @@
                 "owner": "nervecenter",
                 "repo": "nimgnuplot",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3923,7 +4155,8 @@
                 "owner": "refaqtor",
                 "repo": "nimetry",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -3947,11 +4180,12 @@
                 "archived": false,
                 "id": 158147798,
                 "language": "Nim",
-                "last_commit": "2026-08-27T16:51:31Z",
+                "last_commit": "2026-08-28T18:16:01Z",
                 "owner": "vacp2p",
                 "repo": "nim-libp2p",
                 "stars": 320
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3966,7 +4200,8 @@
                 "owner": "treeform",
                 "repo": "puppy",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3981,7 +4216,8 @@
                 "owner": "treeform",
                 "repo": "netty",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -3992,11 +4228,12 @@
                 "archived": false,
                 "id": 123437311,
                 "language": "Nim",
-                "last_commit": "2026-08-24T05:07:00Z",
+                "last_commit": "2026-08-27T20:03:47Z",
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4011,7 +4248,8 @@
                 "owner": "status-im",
                 "repo": "nim-presto",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4026,7 +4264,8 @@
                 "owner": "python36",
                 "repo": "nmqtt",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4041,7 +4280,8 @@
                 "owner": "mishankov",
                 "repo": "yahttp",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4056,7 +4296,8 @@
                 "owner": "status-im",
                 "repo": "nim-http-utils",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4071,7 +4312,8 @@
                 "owner": "beshrkayali",
                 "repo": "webdavclient",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4086,7 +4328,8 @@
                 "owner": "benob",
                 "repo": "gemini",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4101,7 +4344,8 @@
                 "owner": "logos-storage",
                 "repo": "logos-storage-nim-dht",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4116,7 +4360,8 @@
                 "owner": "subsetpark",
                 "repo": "nim-stomp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "children": [
@@ -4133,7 +4378,8 @@
                     "owner": "rockcavera",
                     "repo": "nim-ndns",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -4148,7 +4394,8 @@
                     "owner": "rockcavera",
                     "repo": "nim-dnsprotocol",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -4170,7 +4417,8 @@
                     "owner": "vacp2p",
                     "repo": "nim-quic",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -4185,7 +4433,8 @@
                     "owner": "vacp2p",
                     "repo": "nim-ngtcp2",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -4207,7 +4456,8 @@
                     "owner": "treeform",
                     "repo": "ws",
                     "stars": 265
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -4222,7 +4472,8 @@
                     "owner": "niv",
                     "repo": "websocket.nim",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -4237,7 +4488,8 @@
                     "owner": "status-im",
                     "repo": "nim-websock",
                     "stars": 92
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -4252,7 +4504,8 @@
                     "owner": "Tormund",
                     "repo": "news",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -4270,11 +4523,12 @@
                     "archived": false,
                     "id": 259536860,
                     "language": "Nim",
-                    "last_commit": "2026-08-27T17:39:08Z",
+                    "last_commit": "2026-08-28T18:11:27Z",
                     "owner": "logos-messaging",
                     "repo": "logos-delivery",
                     "stars": 248
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -4289,7 +4543,8 @@
                     "owner": "krisppurg",
                     "repo": "dimscord",
                     "stars": 240
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -4304,7 +4559,8 @@
                     "owner": "ba0f3",
                     "repo": "telebot.nim",
                     "stars": 191
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 },
                 {
                   "node_type": "item",
@@ -4319,7 +4575,8 @@
                     "owner": "status-im",
                     "repo": "nim-status",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -4341,7 +4598,8 @@
                     "owner": "enthus1ast",
                     "repo": "nimMulticast",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:59:49.211Z"
                 }
               ],
               "description": null,
@@ -4368,7 +4626,8 @@
                 "owner": "GULPF",
                 "repo": "nimquery",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -4390,7 +4649,8 @@
                 "owner": "dom96",
                 "repo": "httpbeast",
                 "stars": 473
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4405,7 +4665,8 @@
                 "owner": "guzba",
                 "repo": "mummy",
                 "stars": 339
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4420,7 +4681,8 @@
                 "owner": "ringabout",
                 "repo": "httpx",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4435,7 +4697,8 @@
                 "owner": "olliNiinivaara",
                 "repo": "GuildenStern",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4450,7 +4713,8 @@
                 "owner": "iocrate",
                 "repo": "netkit",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -4472,7 +4736,8 @@
                 "owner": "ardek66",
                 "repo": "geminim",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -4494,7 +4759,8 @@
                 "owner": "dom96",
                 "repo": "jester",
                 "stars": 1629
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4509,7 +4775,8 @@
                 "owner": "planety",
                 "repo": "prologue",
                 "stars": 1350
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4524,7 +4791,8 @@
                 "owner": "karaxnim",
                 "repo": "karax",
                 "stars": 1167
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4539,7 +4807,8 @@
                 "owner": "HapticX",
                 "repo": "happyx",
                 "stars": 666
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4554,7 +4823,8 @@
                 "owner": "dumblepy",
                 "repo": "nim-basolato",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4569,7 +4839,8 @@
                 "owner": "andreaferretti",
                 "repo": "rosencrantz",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4584,7 +4855,8 @@
                 "owner": "ThomasTJdev",
                 "repo": "nim_websitecreator",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4599,7 +4871,8 @@
                 "owner": "mattaylor",
                 "repo": "whip",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4614,7 +4887,8 @@
                 "owner": "bung87",
                 "repo": "scorper",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4629,7 +4903,8 @@
                 "owner": "canermastan",
                 "repo": "jazzy-framework",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4644,7 +4919,8 @@
                 "owner": "supranim",
                 "repo": "supranim",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4659,7 +4935,8 @@
                 "owner": "planety",
                 "repo": "snowlight",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4674,7 +4951,8 @@
                 "owner": "dumblepy",
                 "repo": "nim-palladian",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -4696,7 +4974,8 @@
                 "owner": "enthus1ast",
                 "repo": "nimja",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4711,7 +4990,8 @@
                 "owner": "onionhammer",
                 "repo": "nim-templates",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4726,7 +5006,8 @@
                 "owner": "soasme",
                 "repo": "nim-mustache",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4741,7 +5022,8 @@
                 "owner": "juancarlospaco",
                 "repo": "nim-html-dsl",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4756,7 +5038,8 @@
                 "owner": "tim-engine",
                 "repo": "tim",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4771,7 +5054,8 @@
                 "owner": "roquie",
                 "repo": "smalte",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -4793,7 +5077,8 @@
                 "owner": "CORDEA",
                 "repo": "oauth",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -4821,7 +5106,8 @@
                 "owner": "Dav1dde",
                 "repo": "glad",
                 "stars": 4591
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4836,7 +5122,8 @@
                 "owner": "getenu",
                 "repo": "enu",
                 "stars": 484
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4851,7 +5138,8 @@
                 "owner": "nimgl",
                 "repo": "nimgl",
                 "stars": 409
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4866,7 +5154,8 @@
                 "owner": "stavenko",
                 "repo": "nim-glm",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -4888,7 +5177,8 @@
                 "owner": "ftsf",
                 "repo": "nico",
                 "stars": 666
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4903,7 +5193,8 @@
                 "owner": "planetis-m",
                 "repo": "naylib",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4918,7 +5209,8 @@
                 "owner": "exelotl",
                 "repo": "natu",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4933,7 +5225,8 @@
                 "owner": "paranim",
                 "repo": "paranim",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4948,7 +5241,8 @@
                 "owner": "0xE111",
                 "repo": "cat-400",
                 "stars": 93
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -4970,7 +5264,8 @@
                 "owner": "jmgomez",
                 "repo": "NimForUE",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -4985,7 +5280,8 @@
                 "owner": "pragmagic",
                 "repo": "godot-nim",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5000,7 +5296,8 @@
                 "owner": "Vladar4",
                 "repo": "nimgame2",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5015,7 +5312,8 @@
                 "owner": "yglukhov",
                 "repo": "rod",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5030,7 +5328,8 @@
                 "owner": "abisxir",
                 "repo": "alasgar",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5045,7 +5344,8 @@
                 "owner": "saemideluxe",
                 "repo": "semicongine",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5060,7 +5360,8 @@
                 "owner": "Tail-Wag-Games",
                 "repo": "frag",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5075,7 +5376,8 @@
                 "owner": "tankfeud",
                 "repo": "norx",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5090,7 +5392,8 @@
                 "owner": "glassesneo",
                 "repo": "saohime",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5112,7 +5415,8 @@
                 "owner": "paranim",
                 "repo": "pararules",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5127,7 +5431,8 @@
                 "owner": "JohnAD",
                 "repo": "turn_based_game",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5151,11 +5456,12 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-27T17:46:54Z",
+                "last_commit": "2026-08-28T18:04:46Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18194
-              }
+                "stars": 18197
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5170,7 +5476,8 @@
                 "owner": "PMunch",
                 "repo": "nimlsp",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5185,7 +5492,8 @@
                 "owner": "alaviss",
                 "repo": "nim.nvim",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5200,7 +5508,8 @@
                 "owner": "saem",
                 "repo": "vscode-nim",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5222,7 +5531,8 @@
                 "owner": "inim-repl",
                 "repo": "INim",
                 "stars": 683
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5237,7 +5547,8 @@
                 "owner": "stisa",
                 "repo": "jupyternim",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5252,7 +5563,8 @@
                 "owner": "RowDaBoat",
                 "repo": "reploid",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5274,7 +5586,8 @@
                 "owner": "yglukhov",
                 "repo": "nimpy",
                 "stars": 1589
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5289,7 +5602,8 @@
                 "owner": "nim-lang",
                 "repo": "c2nim",
                 "stars": 527
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5304,7 +5618,8 @@
                 "owner": "PMunch",
                 "repo": "futhark",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5319,7 +5634,8 @@
                 "owner": "nimterop",
                 "repo": "nimterop",
                 "stars": 374
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5334,7 +5650,8 @@
                 "owner": "yglukhov",
                 "repo": "jnim",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5349,7 +5666,8 @@
                 "owner": "genotrance",
                 "repo": "nimgen",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5367,11 +5685,12 @@
                 "archived": false,
                 "id": 1299263,
                 "language": "Nim",
-                "last_commit": "2026-08-27T16:35:39Z",
+                "last_commit": "2026-08-27T20:34:52Z",
                 "owner": "nim-lang",
                 "repo": "nimble",
                 "stars": 1400
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5386,7 +5705,8 @@
                 "owner": "disruptek",
                 "repo": "nimph",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5401,7 +5721,8 @@
                 "owner": "fowlmouth",
                 "repo": "nake",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5412,11 +5733,12 @@
                 "archived": false,
                 "id": 651581613,
                 "language": "Nim",
-                "last_commit": "2026-08-21T14:59:47Z",
+                "last_commit": "2026-08-28T16:19:02Z",
                 "owner": "nim-lang",
                 "repo": "atlas",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5431,7 +5753,24 @@
                 "owner": "nim-lang",
                 "repo": "choosenim",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nimby",
+              "description": "A very simple and unofficial package manager for Nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189757977,
+                "language": "Nim",
+                "last_commit": "2026-08-27T15:15:31Z",
+                "owner": "treeform",
+                "repo": "nimby",
+                "stars": 45
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5446,22 +5785,8 @@
                 "owner": "h3rald",
                 "repo": "nifty",
                 "stars": 45
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "nimby",
-              "description": "A very simple and unofficial package manager for Nim.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 189757977,
-                "language": "Nim",
-                "last_commit": "2026-08-27T15:15:31Z",
-                "owner": "treeform",
-                "repo": "nimby",
-                "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5476,7 +5801,8 @@
                 "owner": "Araq",
                 "repo": "nawabs",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5491,7 +5817,8 @@
                 "owner": "nim-libs",
                 "repo": "nsis",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5506,7 +5833,8 @@
                 "owner": "Vyrnexis",
                 "repo": "nim-agent-template",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5528,7 +5856,8 @@
                 "owner": "status-im",
                 "repo": "nim-chronicles",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5543,7 +5872,8 @@
                 "owner": "c-blake",
                 "repo": "kslog",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5565,7 +5895,8 @@
                 "owner": "disruptek",
                 "repo": "balls",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5580,7 +5911,8 @@
                 "owner": "jyapayne",
                 "repo": "einheit",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5595,7 +5927,8 @@
                 "owner": "jiro4989",
                 "repo": "faker",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5610,7 +5943,8 @@
                 "owner": "status-im",
                 "repo": "nim-unittest2",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5625,7 +5959,8 @@
                 "owner": "logos-storage",
                 "repo": "asynctest",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5647,7 +5982,8 @@
                 "owner": "status-im",
                 "repo": "nim-drchaos",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5662,7 +5998,8 @@
                 "owner": "planetis-m",
                 "repo": "libfuzzer",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5684,7 +6021,8 @@
                 "owner": "treeform",
                 "repo": "benchy",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5699,7 +6037,8 @@
                 "owner": "ringabout",
                 "repo": "timeit",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5714,7 +6053,8 @@
                 "owner": "disruptek",
                 "repo": "golden",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5729,7 +6069,8 @@
                 "owner": "disruptek",
                 "repo": "criterion",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5744,7 +6085,8 @@
                 "owner": "ivankoster",
                 "repo": "nimbench",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5766,7 +6108,8 @@
                 "owner": "c-blake",
                 "repo": "cligen",
                 "stars": 582
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5781,7 +6124,8 @@
                 "owner": "docopt",
                 "repo": "docopt.nim",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5796,7 +6140,8 @@
                 "owner": "iffy",
                 "repo": "nim-argparse",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5811,7 +6156,8 @@
                 "owner": "juancarlospaco",
                 "repo": "cliche",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5826,7 +6172,8 @@
                 "owner": "status-im",
                 "repo": "nim-confutils",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5841,7 +6188,8 @@
                 "owner": "beshrkayali",
                 "repo": "loki",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5856,7 +6204,8 @@
                 "owner": "oliverdelancey",
                 "repo": "clapfn",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5871,7 +6220,8 @@
                 "owner": "indiscipline",
                 "repo": "cozycliparser",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5886,7 +6236,8 @@
                 "owner": "farias-hecdin",
                 "repo": "Cmdos",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5901,7 +6252,8 @@
                 "owner": "RowDaBoat",
                 "repo": "cliquet",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5916,7 +6268,8 @@
                 "owner": "nervecenter",
                 "repo": "easyargs",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5938,7 +6291,8 @@
                 "owner": "thindil",
                 "repo": "nimalyzer",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -5962,11 +6316,12 @@
                 "archived": false,
                 "id": 842037,
                 "language": "Nim",
-                "last_commit": "2026-08-27T17:46:54Z",
+                "last_commit": "2026-08-28T18:04:46Z",
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18194
-              }
+                "stars": 18197
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5981,7 +6336,8 @@
                 "owner": "dkgitdev",
                 "repo": "nimNx",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             },
             {
               "node_type": "item",
@@ -5996,7 +6352,8 @@
                 "owner": "dkgitdev",
                 "repo": "nimNxStatic",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
             }
           ],
           "description": null,
@@ -6008,7 +6365,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:53:18.882Z",
+    "last_updated": "2026-08-28T18:59:49.211Z",
     "original_repository_info": {
       "archived": false,
       "id": 287497982,

@@ -17,11 +17,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:24:24Z",
-                "open_issues": 2215,
+                "last_commit": "2026-10-03T03:14:38Z",
+                "open_issues": 2219,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18247,
+                "stars": 18249,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -225,7 +225,7 @@
                 "id": 99487140,
                 "language": "Nim",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T03:47:51Z",
+                "last_commit": "2026-10-02T19:29:53Z",
                 "open_issues": 46,
                 "owner": "fox0430",
                 "repo": "moe",
@@ -290,7 +290,7 @@
                 "id": 133633453,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T07:25:28Z",
+                "last_commit": "2026-10-02T17:04:54Z",
                 "open_issues": 60,
                 "owner": "status-im",
                 "repo": "nim-chronos",
@@ -1546,6 +1546,36 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "flysystem",
+              "description": "A filesystem API for Nim, inspired by Flysystem from the PHP ecosystem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A filesystem API for Nim, inspired by Flysystem from the PHP ecosystem",
+                "homepage": "https://openpeeps.github.io/flysystem/",
+                "id": 1255380221,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-15T14:09:57Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "flysystem",
+                "stars": 9,
+                "topics": [
+                  "files",
+                  "filesystem",
+                  "filesystem-library",
+                  "mime-types",
+                  "nim",
+                  "nim-lan",
+                  "nim-package",
+                  "openpeeps"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             }
           ],
           "description": null,
@@ -2242,7 +2272,7 @@
             "id": 56346761,
             "language": "Nim",
             "license": "MIT",
-            "last_commit": "2026-09-30T17:39:28Z",
+            "last_commit": "2026-10-02T18:27:04Z",
             "open_issues": 4,
             "owner": "jcosborn",
             "repo": "qex",
@@ -3422,6 +3452,83 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "openparser",
+              "description": "A collection SIMD-accelerated parsers and dumpers. Supporting: JSON, YAML, XML, TOML, CSV, BSON, Plist, HTML, CSS, RSS, Atom, DotEnv, iCal, vCard, NIF, SQL, Regex, Gettext, Fast Binary Encoding (FBE), QR, SVG, Colors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "OpenPeeps collection of tiny parsers and dumpers: JSON, CSV, TOML, YAML, RSS, BSON, FBE, DotEnv, Regex, SQL, Gettext (po/mo) and more!",
+                "homepage": "https://openpeeps.github.io/openparser/",
+                "id": 1210677819,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-30T11:53:58Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "openparser",
+                "stars": 12,
+                "topics": [
+                  "bson",
+                  "dotenv",
+                  "fbe",
+                  "feed",
+                  "gettext",
+                  "json",
+                  "nim",
+                  "nim-packages",
+                  "openpeeps",
+                  "parser",
+                  "parser-library",
+                  "parsers",
+                  "regex",
+                  "rss",
+                  "rss-parser",
+                  "serialization",
+                  "serializer",
+                  "xml",
+                  "yaml"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            },
+            {
+              "node_type": "item",
+              "title": "sweetsyntax",
+              "description": "A generic parser and AST explorer for analyzing programming languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SweetSyntax 🍭 A generic parser and AST explorer for analyzing programming languages",
+                "homepage": "https://openpeeps.github.io/sweetsyntax/",
+                "id": 1235585439,
+                "language": "JavaScript",
+                "license": "LGPL-3.0",
+                "last_commit": "2026-09-30T20:53:35Z",
+                "open_issues": 2,
+                "owner": "openpeeps",
+                "repo": "sweetsyntax",
+                "stars": 7,
+                "topics": [
+                  "ast",
+                  "editor",
+                  "generic-parser",
+                  "memfiles",
+                  "mma",
+                  "nim",
+                  "openpeeps",
+                  "parser",
+                  "pratt",
+                  "syntax",
+                  "syntax-highlighter",
+                  "toolkit",
+                  "tree",
+                  "tree-sitter"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             }
           ],
           "description": null,
@@ -3430,6 +3537,27 @@
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "jsony",
+              "description": "A loose, direct to object json parser with hooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A loose, direct to object json parser with hooks.",
+                "homepage": null,
+                "id": 317371503,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-05-24T20:41:01Z",
+                "open_issues": 38,
+                "owner": "treeform",
+                "repo": "jsony",
+                "stars": 298,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            },
             {
               "node_type": "item",
               "title": "protobuf-nim",
@@ -3720,6 +3848,63 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "filetype",
+              "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Small and dependency free Nim package to infer file and MIME type checking the magic numbers signature.",
+                "homepage": "https://jiro4989.github.io/filetype/filetype.html",
+                "id": 324177111,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2023-08-06T14:23:54Z",
+                "open_issues": 0,
+                "owner": "jiro4989",
+                "repo": "filetype",
+                "stars": 10,
+                "topics": [
+                  "file",
+                  "file-format",
+                  "library",
+                  "magic-numbers",
+                  "nim"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mimedb",
+              "description": "A large database of MIME types for Nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A large database of MIME types for Nim language",
+                "homepage": "https://openpeeps.github.io/mimedb/",
+                "id": 1060069326,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-16T10:14:17Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "mimedb",
+                "stars": 2,
+                "topics": [
+                  "content-type",
+                  "filetype",
+                  "mime",
+                  "mime-database",
+                  "mime-types",
+                  "nim",
+                  "nim-lang",
+                  "openpeeps"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             }
           ],
           "description": null,
@@ -3880,6 +4065,35 @@
                   "nim",
                   "nim-lang",
                   "nim-language"
+                ]
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "marvdown",
+              "description": "A stupid simple Markdown parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is Marvdown ⚡️ A stupid simple Markdown parser ",
+                "homepage": "https://openpeeps.github.io/marvdown/",
+                "id": 1055482698,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-14T16:04:31Z",
+                "open_issues": 5,
+                "owner": "openpeeps",
+                "repo": "marvdown",
+                "stars": 12,
+                "topics": [
+                  "markdown",
+                  "markdown-parser",
+                  "nim",
+                  "nim-lang",
+                  "nimble",
+                  "openpeeps",
+                  "parser"
                 ]
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -4550,6 +4764,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "3code",
+              "description": "The Economical Coding Agent. Saves tokens, brain cycles, computer power, and your privacy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Economical Coding Agent",
+                "homepage": null,
+                "id": 1217872789,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-10-02T11:01:38Z",
+                "open_issues": 1,
+                "owner": "capocasa",
+                "repo": "3code",
+                "stars": 102,
+                "topics": []
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI Agents"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "chachachat",
+              "description": "A simple, embeddable LLM client API with chat and RAG capabilities. Compatible with OpenAI API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ChaChaChat - A simple, embeddable LLM chat with RAG capabilities ",
+                "homepage": null,
+                "id": 1242396032,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-12T17:06:30Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "chachachat",
+                "stars": 2,
+                "topics": [
+                  "chat",
+                  "chat-application",
+                  "chatbot-application",
+                  "llm",
+                  "llm-agent",
+                  "nim",
+                  "openpeeps",
+                  "rag",
+                  "tim"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI REST API clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "bigints",
               "description": "Bigints for Nim.",
               "children": [],
@@ -4977,6 +5257,70 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nimcypher",
+              "description": "A Port of Monocypher in Nim + high-level API, extra algos, and opt-in SIMD acceleration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A port of Monocypher in Nim + high-level API and extensions",
+                "homepage": "https://nimbase.github.io/nimcypher/",
+                "id": 1334975698,
+                "language": "Nim",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-09-28T19:45:59Z",
+                "open_issues": 0,
+                "owner": "nimbase",
+                "repo": "nimcypher",
+                "stars": 5,
+                "topics": [
+                  "aead",
+                  "blake2b",
+                  "crypto",
+                  "cryptography",
+                  "decrypt",
+                  "encrypt",
+                  "encryption",
+                  "monocypher",
+                  "nim",
+                  "nim-port",
+                  "port",
+                  "simd"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            },
+            {
+              "node_type": "item",
+              "title": "blackpaper",
+              "description": "A super simple password strength estimator in Nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🔐 A super simple Password Strength Estimator in 👑 Nim language",
+                "homepage": "https://openpeeps.github.io/blackpaper/",
+                "id": 1171052979,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-12T13:05:31Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "blackpaper",
+                "stars": 2,
+                "topics": [
+                  "fuzzy-search",
+                  "password",
+                  "password-checker",
+                  "password-safety",
+                  "password-strength",
+                  "passwords",
+                  "security",
+                  "simd"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             }
           ],
           "description": null,
@@ -4997,8 +5341,8 @@
                 "id": 141717232,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T13:07:15Z",
-                "open_issues": 216,
+                "last_commit": "2026-10-02T22:23:06Z",
+                "open_issues": 220,
                 "owner": "status-im",
                 "repo": "nimbus-eth2",
                 "stars": 663,
@@ -5028,8 +5372,8 @@
                 "id": 116221698,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T11:56:26Z",
-                "open_issues": 122,
+                "last_commit": "2026-10-03T01:37:29Z",
+                "open_issues": 119,
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
                 "stars": 633,
@@ -5249,6 +5593,38 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nbrotli",
+              "description": "A 100% pure Nim port of Brotli, no C bindings, no FFI. SIMD accelerated + MemFiles support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A port of Brotli compressor/decompressor in pure 👑 Nim language. SIMD accelerated with MemFiles support",
+                "homepage": "https://nimbase.github.io/nbrotli/",
+                "id": 1349942560,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-05T16:05:33Z",
+                "open_issues": 0,
+                "owner": "nimbase",
+                "repo": "nbrotli",
+                "stars": 4,
+                "topics": [
+                  "algorithm",
+                  "brotli",
+                  "brotli-decoder",
+                  "brotli-encoder",
+                  "compression",
+                  "decompression",
+                  "nim",
+                  "nim-lang",
+                  "nimbase",
+                  "web"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             }
           ],
           "description": null,
@@ -5383,6 +5759,27 @@
             },
             {
               "node_type": "item",
+              "title": "niffler",
+              "description": "Command line AI assistant written in Nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An easy to use component based coding harness that can extend itself.",
+                "homepage": null,
+                "id": 1337752789,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-10-03T04:15:33Z",
+                "open_issues": 24,
+                "owner": "gokr",
+                "repo": "niffler",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
               "title": "prettyterm",
               "description": "Library for creating beautiful terminal interfaces in Nim.",
               "children": [],
@@ -5409,27 +5806,6 @@
                   "tui",
                   "utils"
                 ]
-              },
-              "first_seen": "2026-08-28T18:59:49.211Z"
-            },
-            {
-              "node_type": "item",
-              "title": "niffler",
-              "description": "Command line AI assistant written in Nim.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An easy to use component based coding harness that can extend itself.",
-                "homepage": null,
-                "id": 1337752789,
-                "language": "C",
-                "license": null,
-                "last_commit": "2026-10-02T04:12:21Z",
-                "open_issues": 30,
-                "owner": "gokr",
-                "repo": "niffler",
-                "stars": 2,
-                "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
             }
@@ -5557,7 +5933,7 @@
                     "open_issues": 35,
                     "owner": "yglukhov",
                     "repo": "nimx",
-                    "stars": 1189,
+                    "stars": 1188,
                     "topics": [
                       "nim",
                       "ui"
@@ -6329,8 +6705,8 @@
                 "id": 158147798,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T12:52:09Z",
-                "open_issues": 110,
+                "last_commit": "2026-10-02T23:53:25Z",
+                "open_issues": 106,
                 "owner": "iftech",
                 "repo": "nim-libp2p",
                 "stars": 323,
@@ -6398,8 +6774,8 @@
                 "id": 123437311,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T15:41:53Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-02T21:51:39Z",
+                "open_issues": 10,
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
                 "stars": 104,
@@ -6814,8 +7190,8 @@
                     "id": 259536860,
                     "language": "Nim",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T12:52:13Z",
-                    "open_issues": 120,
+                    "last_commit": "2026-10-02T20:56:22Z",
+                    "open_issues": 111,
                     "owner": "logos-messaging",
                     "repo": "logos-delivery",
                     "stars": 249,
@@ -7084,6 +7460,32 @@
             },
             {
               "node_type": "item",
+              "title": "caprese",
+              "description": "A front-end web server specialized for real-time message exchange.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A front-end web server specialized for real-time message exchange",
+                "homepage": null,
+                "id": 522191410,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-08-12T21:19:37Z",
+                "open_issues": 2,
+                "owner": "zenywallet",
+                "repo": "caprese",
+                "stars": 85,
+                "topics": [
+                  "https",
+                  "reverse-proxy",
+                  "web-framework",
+                  "websocket"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            },
+            {
+              "node_type": "item",
               "title": "netkit",
               "description": "Out-of-the-box, stable and secure network facilities and utilities written in pure Nim.",
               "children": [],
@@ -7102,6 +7504,77 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "hyperx",
+              "description": "Pure Nim HTTP/2 client and server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Pure Nim http2 client and server 🖖",
+                "homepage": null,
+                "id": 685445851,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-27T19:24:30Z",
+                "open_issues": 8,
+                "owner": "nitely",
+                "repo": "nim-hyperx",
+                "stars": 39,
+                "topics": [
+                  "client",
+                  "http",
+                  "http-client",
+                  "http-server",
+                  "http2",
+                  "nim",
+                  "nim-lang",
+                  "server",
+                  "web"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            },
+            {
+              "node_type": "item",
+              "title": "powpow",
+              "description": "An event notification library. Supporting UDP, TCP, HTTP/1.1, HTTP/2, WebSockets, and more. Alternative to libuv and libevent.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "💥 A high-performance event notification library. UDP, TCP, HTTP/1.1, HTTP/2 and WebSockets. Alternative to libuv and libevent",
+                "homepage": "https://openpeeps.github.io/powpow/",
+                "id": 1269990056,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-30T16:38:27Z",
+                "open_issues": 1,
+                "owner": "openpeeps",
+                "repo": "powpow",
+                "stars": 20,
+                "topics": [
+                  "epoll",
+                  "event-driven",
+                  "http",
+                  "http2",
+                  "http2-client",
+                  "http2-server",
+                  "iocp",
+                  "kqueue",
+                  "libevent",
+                  "libuv",
+                  "nim",
+                  "nim-package",
+                  "openpeeps",
+                  "posix",
+                  "server",
+                  "tcp",
+                  "udp",
+                  "websocket"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             }
           ],
           "description": null,
@@ -7644,7 +8117,7 @@
                 "id": 456939074,
                 "language": "Nim",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-25T12:47:29Z",
+                "last_commit": "2026-10-02T17:51:33Z",
                 "open_issues": 5,
                 "owner": "tim-engine",
                 "repo": "tim",
@@ -7711,6 +8184,70 @@
           "children": [
             {
               "node_type": "item",
+              "title": "valido",
+              "description": "A library of string validators and sanitizers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A library of string validators and sanitizers.",
+                "homepage": "https://openpeeps.github.io/valido",
+                "id": 595120171,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-10-02T16:41:31Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "valido",
+                "stars": 15,
+                "topics": [
+                  "nim",
+                  "nim-lang",
+                  "nim-language",
+                  "sanitizer",
+                  "string-validation",
+                  "validation",
+                  "validation-library",
+                  "validator"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bag",
+              "description": "Validate HTTP input data in a fancy way (based on pkg/valido).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Validate form input data in a fancy way. Written in Nim language",
+                "homepage": "https://openpeeps.github.io/bag",
+                "id": 599121647,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-06-26T13:27:09Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "bag",
+                "stars": 7,
+                "topics": [
+                  "bag",
+                  "form",
+                  "form-validation",
+                  "input-validation",
+                  "nim-lang"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "String Validators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "oauth",
               "description": "OAuth library for Nim.",
               "children": [],
@@ -7732,6 +8269,35 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "twofa",
+              "description": "Generate TOTP, HOTP and QR codes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generate TOTP, HOTP, QR codes. Based on NimCypher",
+                "homepage": "https://openpeeps.github.io/twofa/",
+                "id": 1198612818,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-10T17:46:51Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "twofa",
+                "stars": 4,
+                "topics": [
+                  "2fa",
+                  "hotp",
+                  "nim",
+                  "qr",
+                  "qrcode",
+                  "totp",
+                  "twofactor"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             }
           ],
           "description": null,
@@ -8068,7 +8634,7 @@
                 "open_issues": 14,
                 "owner": "jmgomez",
                 "repo": "NimForUE",
-                "stars": 542,
+                "stars": 543,
                 "topics": [
                   "gamedev",
                   "nim",
@@ -8348,11 +8914,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:24:24Z",
-                "open_issues": 2215,
+                "last_commit": "2026-10-03T03:14:38Z",
+                "open_issues": 2219,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18247,
+                "stars": 18249,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -8567,7 +9133,7 @@
                 "open_issues": 42,
                 "owner": "nim-lang",
                 "repo": "c2nim",
-                "stars": 526,
+                "stars": 527,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -8588,7 +9154,7 @@
                 "open_issues": 48,
                 "owner": "PMunch",
                 "repo": "futhark",
-                "stars": 506,
+                "stars": 507,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -8667,6 +9233,42 @@
                 ]
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "denim",
+              "description": "Use Nim to build powerful Node.js/Bun addons via Node API (NAPI).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Node 💖 Nim = Denim! Build powerful NodeJS / BunJS addons with Nim language via Node API (NAPI)",
+                "homepage": "https://openpeeps.github.io/denim/",
+                "id": 382238781,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-08-19T15:39:49Z",
+                "open_issues": 1,
+                "owner": "openpeeps",
+                "repo": "denim",
+                "stars": 55,
+                "topics": [
+                  "bindings",
+                  "cli-tool",
+                  "denim",
+                  "javascript",
+                  "napi",
+                  "napi-nim",
+                  "native-addon",
+                  "nim-lang",
+                  "node",
+                  "node-addon-api",
+                  "nodejs-addon",
+                  "nodejs-native-addon",
+                  "openpeeps",
+                  "toolkit"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             }
           ],
           "description": null,
@@ -8857,6 +9459,33 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "clue",
+              "description": "An alternative package manager for Nim development.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An alternative package manager for Nim development",
+                "homepage": "https://openpeeps.github.io/clue/",
+                "id": 1218123152,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-10-01T18:20:54Z",
+                "open_issues": 0,
+                "owner": "openpeeps",
+                "repo": "clue",
+                "stars": 10,
+                "topics": [
+                  "nim",
+                  "nim-lang",
+                  "openpeeps",
+                  "package",
+                  "package-manager"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
             },
             {
               "node_type": "item",
@@ -9404,6 +10033,40 @@
             },
             {
               "node_type": "item",
+              "title": "kapsis",
+              "description": "An extensible, macro-based DSL with runtime dispatch, built-in validation, type checking, and plugins (shared libs) support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Yet Another CLI builder - Build delightful command line interfaces in seconds. Written in Nim language 👑",
+                "homepage": "https://openpeeps.github.io/kapsis/",
+                "id": 382352359,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-24T15:00:43Z",
+                "open_issues": 1,
+                "owner": "openpeeps",
+                "repo": "kapsis",
+                "stars": 40,
+                "topics": [
+                  "awesome",
+                  "awesome-nim",
+                  "cli",
+                  "cli-framework",
+                  "command-line",
+                  "command-line-parser",
+                  "command-line-tool",
+                  "nim",
+                  "nim-lang",
+                  "nim-language",
+                  "openpeeps",
+                  "terminal-app"
+                ]
+              },
+              "first_seen": "2026-10-03T04:57:14.349Z"
+            },
+            {
+              "node_type": "item",
               "title": "loki",
               "description": "A small library for writing line-oriented command interpreters in Nim.",
               "children": [],
@@ -9600,11 +10263,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:24:24Z",
-                "open_issues": 2215,
+                "last_commit": "2026-10-03T03:14:38Z",
+                "open_issues": 2219,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18247,
+                "stars": 18249,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -9687,7 +10350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:09:08.517Z",
+    "last_updated": "2026-10-03T04:57:14.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nim frameworks, libraries, software and resources.",
@@ -9695,7 +10358,7 @@
       "id": 287497982,
       "language": "Nim",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-21T12:26:21Z",
+      "last_commit": "2026-10-02T14:45:34Z",
       "open_issues": 12,
       "owner": "ringabout",
       "repo": "awesome-nim",
@@ -9708,7 +10371,7 @@
         "nim-language"
       ]
     },
-    "original_repository_sha": "c5ab36441cdf6646d5ec1c8e87679c22600f3117",
+    "original_repository_sha": "26a58ad0acf1c63e4ccd3af417a47390893fcf83",
     "enhanced_repository": "enhansome/enhansome-nim",
     "enhanced_repository_description": null,
     "title": "Awesome nim with stars"

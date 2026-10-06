@@ -118,8 +118,8 @@
 
 ### Implementations
 
-* [Nim](https://github.com/nim-lang/Nim) ⭐ 18,253 | 🐛 2,229 | 🌐 Nim | 📅 2026-10-05 - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority).
-* [nlvm](https://github.com/arnetheduck/nlvm) ⭐ 778 | 🐛 11 | 🌐 Nim | 📅 2026-09-26 - LLVM backend for Nim.
+* [Nim](https://github.com/nim-lang/Nim) ⭐ 18,254 | 🐛 2,232 | 🌐 Nim | 📅 2026-10-06 - Nim (formerly known as "Nimrod") is a compiled, garbage-collected systems programming language which has an excellent productivity/performance ratio. Nim's design focuses on efficiency, expressiveness, elegance (in the order of priority).
+* [nlvm](https://github.com/arnetheduck/nlvm) ⭐ 779 | 🐛 12 | 🌐 Nim | 📅 2026-09-26 - LLVM backend for Nim.
 
 ### Standard Libraries
 
@@ -134,19 +134,19 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Package Repositories
 
-* [Nim packages](https://github.com/nim-lang/packages) ⭐ 502 | 🐛 19 | 🌐 Nim | 📅 2026-10-03 - List of packages for Nimble.
+* [Nim packages](https://github.com/nim-lang/packages) ⭐ 502 | 🐛 19 | 🌐 Nim | 📅 2026-10-06 - List of packages for Nimble.
 * [Nim package directory](https://nimble.directory/) - Explore Nim packages known to Nimble.
 
 ### Editors
 
-* [moe](https://github.com/fox0430/moe) ⭐ 730 | 🐛 45 | 🌐 Nim | 📅 2026-10-05 - A vim-like editor made with Nim, also supports C, Rust, Javascript, etc.
-* [Nev](https://github.com/Nimaoth/Nev) ⭐ 198 | 🐛 7 | 🌐 Nim | 📅 2026-09-27 - A keyboard focused GUI and terminal text editor.
+* [moe](https://github.com/fox0430/moe) ⭐ 730 | 🐛 44 | 🌐 Nim | 📅 2026-10-06 - A vim-like editor made with Nim, also supports C, Rust, Javascript, etc.
+* [Nev](https://github.com/Nimaoth/Nev) ⭐ 198 | 🐛 7 | 🌐 Nim | 📅 2026-10-05 - A keyboard focused GUI and terminal text editor.
 * [Nim Playground](https://play.nim-lang.org/) - Code and run Nim online.
 * [DoongJohn's Nim playground](https://doongjohn.github.io/nim-playground/) - An alternative implementation of the Nim playground.
 
 ### Async IO
 
-* [chronos](https://github.com/status-im/nim-chronos) ⭐ 413 | 🐛 60 | 🌐 Nim | 📅 2026-10-02 - An efficient library for asynchronous programming.
+* [chronos](https://github.com/status-im/nim-chronos) ⭐ 413 | 🐛 60 | 🌐 Nim | 📅 2026-10-06 - An efficient library for asynchronous programming.
 * [cps](https://github.com/disruptek/cps) ⭐ 16 | 🐛 0 | 🌐 Nim | 📅 2025-04-29 - Continuation-Passing Style for Nim.
 * [std/async](https://nim-lang.org/docs/async.html) - Async/await implementation in Nim's stdlib (aka asyncdispatch).
 
@@ -154,7 +154,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 * [weave](https://github.com/mratsim/weave) ⭐ 586 | 🐛 44 | 🌐 Nim | 📅 2024-06-29 - A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead.
 * [malebolgia](https://github.com/Araq/malebolgia) ⭐ 160 | 🐛 4 | 🌐 HTML | 📅 2026-03-04 - A powerful library in Nim that simplifies the implementation of concurrent and parallel programming.
-* [taskpools](https://github.com/status-im/nim-taskpools) ⭐ 123 | 🐛 8 | 🌐 Nim | 📅 2026-10-04 - Lightweight, energy-efficient, easily auditable threadpools.
+* [taskpools](https://github.com/status-im/nim-taskpools) ⭐ 123 | 🐛 9 | 🌐 Nim | 📅 2026-10-06 - Lightweight, energy-efficient, easily auditable threadpools.
 * [synthesis](https://github.com/mratsim/Synthesis) ⭐ 100 | 🐛 1 | 🌐 Nim | 📅 2020-04-21 - A compiletime, procedure-based, low-overhead, no-allocation, state-machine generator optimized for communicating processes and threads.
 * [sync](https://github.com/planetis-m/sync) ⚠️ Archived - Useful synchronization primitives.
 * [shared](https://github.com/genotrance/shared) ⭐ 12 | 🐛 0 | 🌐 Nim | 📅 2019-07-31 - A Nim library for shared types.
@@ -190,7 +190,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Pattern Matching
 
-* [npeg](https://github.com/zevv/npeg) ⭐ 340 | 🐛 6 | 🌐 Nim | 📅 2024-08-22 - PEGs for Nim, another take.
+* [npeg](https://github.com/zevv/npeg) ⭐ 341 | 🐛 6 | 🌐 Nim | 📅 2024-08-22 - PEGs for Nim, another take.
 * [patty](https://github.com/andreaferretti/patty) ⭐ 281 | 🐛 6 | 🌐 Nim | 📅 2023-04-04 - A pattern matching library for Nim.
 * [regex](https://github.com/nitely/nim-regex) ⭐ 244 | 🐛 19 | 🌐 Nim | 📅 2026-08-25 - Pure Nim regex engine with linear time match.
 * [ast\_pattern\_match](https://github.com/krux02/ast-pattern-matching) ⭐ 107 | 🐛 2 | 🌐 Nim | 📅 2023-11-29 - A library to do pattern matching on the AST.
@@ -226,8 +226,8 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### IO
 
-* [faststreams](https://github.com/status-im/nim-faststreams) ⭐ 134 | 🐛 1 | 🌐 Nim | 📅 2026-10-04 - Nearly zero-overhead input/output streams for Nim.
-* [lockfreequeues](https://github.com/elijahr/lockfreequeues) ⭐ 50 | 🐛 3 | 🌐 Nim | 📅 2026-10-05 - Lock-free queue implementations for Nim.
+* [faststreams](https://github.com/status-im/nim-faststreams) ⭐ 134 | 🐛 1 | 🌐 Nim | 📅 2026-10-06 - Nearly zero-overhead input/output streams for Nim.
+* [lockfreequeues](https://github.com/elijahr/lockfreequeues) ⭐ 50 | 🐛 3 | 🌐 Nim | 📅 2026-10-06 - Lock-free queue implementations for Nim.
 * [ioselectors](https://github.com/xflywind/ioselectors) ⭐ 25 | 🐛 2 | 🌐 Nim | 📅 2024-11-26 - The ioselectors plus for Nim.
 * [wepoll](https://github.com/xflywind/wepoll) ⭐ 23 | 🐛 1 | 🌐 Nim | 📅 2024-11-26 - Windows epoll wrapper for Nim.
 * [flysystem](https://github.com/openpeeps/flysystem) ⭐ 9 | 🐛 0 | 🌐 Nim | 📅 2026-09-15 - A filesystem API for Nim, inspired by Flysystem from the PHP ecosystem.
@@ -267,7 +267,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Prometheus exporters
 
-* [node-exporter-lite](https://github.com/twekkel/node_exporter-lite) ⭐ 2 | 🐛 0 | 🌐 Nim | 📅 2026-09-27 - An ultra‑light [node\_exporter](https://github.com/prometheus/node_exporter) ⭐ 13,825 | 🐛 329 | 🌐 Go | 📅 2026-10-01 replacement.
+* [node-exporter-lite](https://github.com/twekkel/node_exporter-lite) ⭐ 2 | 🐛 0 | 🌐 Nim | 📅 2026-09-27 - An ultra‑light [node\_exporter](https://github.com/prometheus/node_exporter) ⭐ 13,826 | 🐛 327 | 🌐 Go | 📅 2026-10-06 replacement.
 * [unbound-exporter-lite](https://github.com/twekkel/unbound_exporter-lite) ⭐ 1 | 🐛 0 | 🌐 Nim | 📅 2026-09-27 - An ultra‑light [unbound\_exporter](https://github.com/letsencrypt/unbound_exporter) ⭐ 276 | 🐛 19 | 🌐 Go | 📅 2026-06-04 replacement.
 
 ## Hardware
@@ -290,7 +290,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 ## Science
 
 * [unchained](https://github.com/SciNim/Unchained) ⭐ 122 | 🐛 5 | 🌐 Nim | 📅 2025-11-20 - A fully type safe, compile time only units library.
-* [qex](https://github.com/jcosborn/qex) ⭐ 60 | 🐛 4 | 🌐 Nim | 📅 2026-10-02 - High-level framework for lattice field operations.
+* [qex](https://github.com/jcosborn/qex) ⭐ 60 | 🐛 4 | 🌐 Nim | 📅 2026-10-06 - High-level framework for lattice field operations.
 * [orbits](https://github.com/treeform/orbits) ⭐ 56 | 🐛 0 | 🌐 Nim | 📅 2026-08-23 - Orbital mechanics library for Nim.
 * [units](https://github.com/Udiknedormin/NimUnits) ⭐ 43 | 🐛 0 | 🌐 Nim | 📅 2018-12-23 - Statically-typed quantity units library for the Nim language.
 * [metric](https://github.com/mjendrusch/metric) ⭐ 20 | 🐛 0 | 🌐 Nim | 📅 2018-08-07 - A small library providing type-level dimensional analysis.
@@ -356,7 +356,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [Binarylang](https://github.com/sealmove/binarylang) ⭐ 64 | 🐛 6 | 🌐 Nim | 📅 2023-06-18 - Extensible Nim DSL for creating binary parsers/encoders in a symmetric fashion.
 * [beautifulparser](https://github.com/TelegramXPlus/beautifulparser) ⭐ 16 | 🐛 0 | 🌐 Nim | 📅 2025-08-29 - Simple library for parsing HTML documents inspired by beautifulsoup4.
 * [Marvdown](https://github.com/openpeeps/marvdown) ⭐ 12 | 🐛 5 | 🌐 Nim | 📅 2026-09-14 - A stupid simple Markdown parser.
-* [openparser](https://github.com/openpeeps/openparser) ⭐ 12 | 🐛 0 | 🌐 Nim | 📅 2026-10-04 - A collection SIMD-accelerated parsers and dumpers. Supporting: JSON, YAML, XML, TOML, CSV, BSON, Plist, HTML, CSS, RSS, Atom, DotEnv, iCal, vCard, NIF, SQL, Regex, Gettext, Fast Binary Encoding (FBE), QR, SVG, Colors.
+* [openparser](https://github.com/openpeeps/openparser) ⭐ 12 | 🐛 0 | 🌐 Nim | 📅 2026-10-06 - A collection SIMD-accelerated parsers and dumpers. Supporting: JSON, YAML, XML, TOML, CSV, BSON, Plist, HTML, CSS, RSS, Atom, DotEnv, iCal, vCard, NIF, SQL, Regex, Gettext, Fast Binary Encoding (FBE), QR, SVG, Colors.
 * [sweetsyntax](https://github.com/openpeeps/sweetsyntax) ⭐ 7 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-30 - A generic parser and AST explorer for analyzing programming languages.
 * [iniplus](https://codeberg.org/onbox/iniplus) - Extended INI parser with support for arrays and tables.
 
@@ -365,13 +365,13 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [jsony](https://github.com/treeform/jsony) ⭐ 298 | 🐛 38 | 🌐 Nim | 📅 2026-05-24 - A loose, direct to object json parser with hooks.
 * [protobuf-nim](https://github.com/PMunch/protobuf-nim) ⭐ 174 | 🐛 12 | 🌐 Nim | 📅 2023-10-17 - Protobuf implementation in pure Nim that leverages the power of the macro system to not depend on any external tools.
 * [flatty](https://github.com/treeform/flatty) ⭐ 95 | 🐛 1 | 🌐 Nim | 📅 2026-08-13 - Tools and serializer for plain flat binary files.
-* [serialization](https://github.com/status-im/nim-serialization) ⭐ 77 | 🐛 12 | 🌐 Nim | 📅 2026-10-04 - A modern and extensible serialization framework for Nim.
-* [json-serialization](https://github.com/status-im/nim-json-serialization) ⭐ 54 | 🐛 8 | 🌐 Nim | 📅 2026-10-04 - Flexible JSON serialization not relying on run-time type information.
+* [serialization](https://github.com/status-im/nim-serialization) ⭐ 77 | 🐛 12 | 🌐 Nim | 📅 2026-10-06 - A modern and extensible serialization framework for Nim.
+* [json-serialization](https://github.com/status-im/nim-json-serialization) ⭐ 54 | 🐛 8 | 🌐 Nim | 📅 2026-10-06 - Flexible JSON serialization not relying on run-time type information.
 * [frosty](https://github.com/disruptek/frosty) ⭐ 49 | 🐛 1 | 🌐 Nim | 📅 2021-11-12 - Marshal native Nim objects via streams, sockets.
 * [toml-serialization](https://github.com/status-im/nim-toml-serialization) ⭐ 45 | 🐛 4 | 🌐 Nim | 📅 2026-09-26 - Flexible TOML serialization `not` relying on run-time type information.
-* [protobuf-serialization](https://github.com/status-im/nim-protobuf-serialization) ⭐ 27 | 🐛 6 | 🌐 Nim | 📅 2026-10-04 - The nim-protobuf-serialization.
+* [protobuf-serialization](https://github.com/status-im/nim-protobuf-serialization) ⭐ 27 | 🐛 6 | 🌐 Nim | 📅 2026-10-06 - The nim-protobuf-serialization.
 * [bingo](https://github.com/planetis-m/bingo) ⭐ 20 | 🐛 5 | 🌐 Nim | 📅 2024-04-05 - Binary serialization framework for Nim.
-* [ssz-serialization](https://github.com/status-im/nim-ssz-serialization) ⭐ 11 | 🐛 4 | 🌐 Nim | 📅 2026-10-05 - Nim implementation of Simple Serialize (SSZ) serialization and merkleization.
+* [ssz-serialization](https://github.com/status-im/nim-ssz-serialization) ⭐ 11 | 🐛 4 | 🌐 Nim | 📅 2026-10-06 - Nim implementation of Simple Serialize (SSZ) serialization and merkleization.
 * [tnetstring](https://github.com/mahlonsmith/nim-tnetstring) ⭐ 0 | 🐛 0 | 🌐 Nim | 📅 2025-06-28 - Parsing and serializing for the TNetstring format.
 * [nesm](https://xomachine.gitlab.io/NESM/) - NESM is a tool that generates serialization and deserialization code for a given object.
 
@@ -435,7 +435,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 #### Vector
 
-* [vmath](https://github.com/treeform/vmath) ⭐ 115 | 🐛 3 | 🌐 Nim | 📅 2026-09-21 - Math vector library for graphical things.
+* [vmath](https://github.com/treeform/vmath) ⭐ 116 | 🐛 3 | 🌐 Nim | 📅 2026-09-21 - Math vector library for graphical things.
 * [vectorize](https://github.com/SciNim/vectorize) ⭐ 17 | 🐛 1 | 🌐 Nim | 📅 2020-05-30 - SIMD vectorization backend.
 
 #### Matrix
@@ -446,7 +446,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Deep Learning
 
-* [Arraymancer](https://github.com/mratsim/Arraymancer) ⭐ 1,409 | 🐛 165 | 🌐 Nim | 📅 2026-05-26 - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU, OpenCL and embedded devices.
+* [Arraymancer](https://github.com/mratsim/Arraymancer) ⭐ 1,409 | 🐛 165 | 🌐 Nim | 📅 2026-10-06 - A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU, OpenCL and embedded devices.
 * [NimTorch](https://github.com/sinkingsugar/nimtorch) ⭐ 472 | 🐛 10 | 🌐 Nim | 📅 2019-06-08 - PyTorch - Python + Nim. A Nim front-end to PyTorch's native backend, combining Nim's speed, productivity and portability with PyTorch's latest implementations.
 * [laser](https://github.com/numforge/laser) ⭐ 295 | 🐛 19 | 🌐 Nim | 📅 2024-01-04 - Carefully-tuned primitives for running tensor and image-processing code on CPU, GPUs and accelerators.
 
@@ -454,7 +454,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### AI Agents
 
-* [3code](https://github.com/capocasa/3code) ⭐ 102 | 🐛 1 | 🌐 Nim | 📅 2026-10-02 - The Economical Coding Agent. Saves tokens, brain cycles, computer power, and your privacy.
+* [3code](https://github.com/capocasa/3code) ⭐ 102 | 🐛 1 | 🌐 Nim | 📅 2026-10-06 - The Economical Coding Agent. Saves tokens, brain cycles, computer power, and your privacy.
 
 ### AI REST API clients
 
@@ -463,7 +463,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 ### Bigints
 
 * [bigints](https://github.com/nim-lang/bigints) ⭐ 129 | 🐛 28 | 🌐 Nim | 📅 2026-09-22 - Bigints for Nim.
-* [stint](https://github.com/status-im/nim-stint) ⭐ 93 | 🐛 17 | 🌐 Nim | 📅 2026-10-04 - Stack-based arbitrary-precision integers. Fast and portable with natural syntax for resource-restricted devices.
+* [stint](https://github.com/status-im/nim-stint) ⭐ 93 | 🐛 17 | 🌐 Nim | 📅 2026-10-06 - Stack-based arbitrary-precision integers. Fast and portable with natural syntax for resource-restricted devices.
 * [theo](https://github.com/SciNim/theo) ⭐ 27 | 🐛 2 | 🌐 Nim | 📅 2022-03-02 - An optimized bigint and number theory library for Nim.
 
 ### Cryptography
@@ -472,7 +472,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [nimcrypto](https://github.com/cheatfate/nimcrypto) ⭐ 218 | 🐛 16 | 🌐 Nim | 📅 2026-07-06 - Nim cryptographic library.
 * [nimaes](https://github.com/jangko/nimAES) ⭐ 55 | 🐛 3 | 🌐 Nim | 📅 2022-08-09 - Advanced Encryption Standard, Rinjdael Algorithm written in Nim.
 * [hashlib](https://github.com/khchen/hashlib) ⭐ 39 | 🐛 2 | 🌐 Nim | 📅 2023-11-30 - Hash library that contains almost all the hash functions for Nim.
-* [bslcurve](https://github.com/status-im/nim-blscurve) ⭐ 27 | 🐛 6 | 🌐 Nim | 📅 2026-10-03 - Nim implementation of BLS signature scheme (Boneh-Lynn-Shacham) over Barreto-Lynn-Scott (BLS) curve BLS12-381.
+* [bslcurve](https://github.com/status-im/nim-blscurve) ⭐ 27 | 🐛 6 | 🌐 Nim | 📅 2026-10-06 - Nim implementation of BLS signature scheme (Boneh-Lynn-Shacham) over Barreto-Lynn-Scott (BLS) curve BLS12-381.
 * [xxhash.nim](https://github.com/OpenSystemsLab/xxhash.nim) ⭐ 20 | 🐛 0 | 🌐 Nim | 📅 2025-03-20 - A wrapper for the xxhash hashing library in Nim.
 * [crc32](https://github.com/juancarlospaco/nim-crc32) ⭐ 19 | 🐛 0 | 🌐 Nim | 📅 2026-09-07 - CRC32 for Nim. Just pass the thing you want to do CRC.
 * [xxtea](https://github.com/xxtea/xxtea-nim) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2021-05-24 - XXTEA encryption algorithm library.
@@ -488,9 +488,9 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Blockchain
 
-* [nimbus-eth2](https://github.com/status-im/nimbus-eth2) ⭐ 663 | 🐛 222 | 🌐 Nim | 📅 2026-10-05 - Efficient implementation of the Ethereum 2.0 blockchain.
-* [nimbus-eth1](https://github.com/status-im/nimbus-eth1) ⭐ 633 | 🐛 119 | 🌐 Nim | 📅 2026-10-05 - An Ethereum 1.0 and 2.0 client for resource-restricted devices.
-* [eth](https://github.com/status-im/nim-eth) ⭐ 93 | 🐛 45 | 🌐 Nim | 📅 2026-10-04 - Common utilities for Ethereum.
+* [nimbus-eth2](https://github.com/status-im/nimbus-eth2) ⭐ 663 | 🐛 226 | 🌐 Nim | 📅 2026-10-06 - Efficient implementation of the Ethereum 2.0 blockchain.
+* [nimbus-eth1](https://github.com/status-im/nimbus-eth1) ⭐ 633 | 🐛 133 | 🌐 Nim | 📅 2026-10-06 - An Ethereum 1.0 and 2.0 client for resource-restricted devices.
+* [eth](https://github.com/status-im/nim-eth) ⭐ 93 | 🐛 46 | 🌐 Nim | 📅 2026-10-06 - Common utilities for Ethereum.
 * [evmc](https://github.com/status-im/nim-evmc) ⭐ 15 | 🐛 1 | 🌐 Nim | 📅 2025-02-17 - Ethereum VM binary compatible interface.
 * [ethash](https://github.com/status-im/nim-ethash) ⭐ 6 | 🐛 6 | 🌐 Nim | 📅 2025-02-24 - A pure-Nim implementation of Ethash, the Ethereum proof of work.
 * [contract-abi](https://github.com/status-im/nim-contract-abi) ⭐ 3 | 🐛 1 | 🌐 Nim | 📅 2025-12-10 - Implements encoding of parameters according to the Ethereum Contract ABI specification.
@@ -517,7 +517,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [jn](https://github.com/joereynolds/jn) ⭐ 64 | 🐛 40 | 🌐 Nim | 📅 2026-08-20 - A CLI note taker and task manager.
 * [Nimmm](https://github.com/joachimschmidt557/nimmm) ⭐ 51 | 🐛 1 | 🌐 Nim | 📅 2026-05-30 - A terminal file manager for Linux.
 * [pnimrp](https://github.com/bloomingchad/pnimrp) ⭐ 5 | 🐛 2 | 🌐 Nim | 📅 2026-08-15 - Stream your favorite radio stations at the comfort of your terminal.
-* [niffler](https://github.com/gokr/niffler) ⭐ 3 | 🐛 25 | 🌐 C | 📅 2026-10-05 - Command line AI assistant written in Nim.
+* [niffler](https://github.com/gokr/niffler) ⭐ 3 | 🐛 28 | 🌐 C | 📅 2026-10-06 - Command line AI assistant written in Nim.
 * [prettyterm](https://github.com/CodeLibraty/prettyterm) ⭐ 3 | 🐛 0 | 🌐 Nim | 📅 2025-08-13 - Library for creating beautiful terminal interfaces in Nim.
 * [pager](https://git.sr.ht/~reesmichael1/nim-pager) - A simple command line pager library, written in Nim.
 
@@ -583,14 +583,14 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Protocols
 
-* [libp2p](https://github.com/status-im/nim-libp2p) ⭐ 323 | 🐛 111 | 🌐 Nim | 📅 2026-10-05 - A Nim implementation of the libp2p networking stack.
+* [libp2p](https://github.com/status-im/nim-libp2p) ⭐ 323 | 🐛 112 | 🌐 Nim | 📅 2026-10-06 - A Nim implementation of the libp2p networking stack.
 * [puppy](https://github.com/treeform/puppy) ⭐ 203 | 🐛 12 | 🌐 Nim | 📅 2026-05-25 - Puppy fetches HTML pages for Nim.
 * [netty](https://github.com/treeform/netty) ⭐ 130 | 🐛 0 | 🌐 Nim | 📅 2026-10-02 - Reliable UDP connection library for games in Nim.
-* [json-rpc](https://github.com/status-im/nim-json-rpc) ⭐ 104 | 🐛 10 | 🌐 Nim | 📅 2026-10-04 - Nim library for implementing JSON-RPC clients and servers.
+* [json-rpc](https://github.com/status-im/nim-json-rpc) ⭐ 104 | 🐛 10 | 🌐 Nim | 📅 2026-10-06 - Nim library for implementing JSON-RPC clients and servers.
 * [presto](https://github.com/status-im/nim-presto) ⭐ 84 | 🐛 9 | 🌐 Nim | 📅 2026-09-07 - An efficient REST API framework.
 * [nmqtt](https://github.com/zevv/nmqtt) ⭐ 54 | 🐛 4 | 🌐 Nim | 📅 2026-10-03 - Native Nim MQTT client library.
 * [yahttp](https://github.com/mishankov/yahttp) ⭐ 30 | 🐛 7 | 🌐 Nim | 📅 2026-07-01 - Awesome simple HTTP client.
-* [http-utils](https://github.com/status-im/nim-http-utils) ⭐ 28 | 🐛 2 | 🌐 Nim | 📅 2026-10-01 - HTTP helper procedures.
+* [http-utils](https://github.com/status-im/nim-http-utils) ⭐ 28 | 🐛 2 | 🌐 Nim | 📅 2026-10-06 - HTTP helper procedures.
 * [webdavclient](https://github.com/beshrkayali/webdavclient) ⭐ 10 | 🐛 1 | 🌐 Nim | 📅 2026-06-06 - WebDAV client for Nim.
 * [gemini](https://github.com/benob/gemini) ⭐ 4 | 🐛 1 | 🌐 Nim | 📅 2021-03-20 - Building blocks for creating Gemini servers and clients.
 * [libp2p-dht](https://github.com/status-im/nim-libp2p-dht) ⭐ 3 | 🐛 17 | 🌐 Nim | 📅 2026-08-03 - DHT based on the libp2p kademlia spec.
@@ -610,13 +610,13 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 * [ws](https://github.com/treeform/ws) ⭐ 266 | 🐛 8 | 🌐 Nim | 📅 2026-05-25 - Simple WebSocket library for Nim.
 * [websocket.nim](https://github.com/niv/websocket.nim) ⭐ 103 | 🐛 8 | 🌐 Nim | 📅 2022-12-04 - WebSockets for Nim.
-* [websock](https://github.com/status-im/nim-websock) ⭐ 92 | 🐛 17 | 🌐 Nim | 📅 2026-10-04 - An implementation of the WebSocket protocol for Nim.
+* [websock](https://github.com/status-im/nim-websock) ⭐ 92 | 🐛 18 | 🌐 Nim | 📅 2026-10-06 - An implementation of the WebSocket protocol for Nim.
 * [news](https://github.com/Tormund/news) ⭐ 36 | 🐛 0 | 🌐 Nim | 📅 2023-04-01 - Nim Easy WebSocket. Based on ws.
 * [jswebsockets](https://juancarlospaco.github.io/nodejs/nodejs/jswebsockets) - WebSockets optimized for JavaScript targets.
 
 #### Messaging
 
-* [nwaku](https://github.com/status-im/nwaku) ⭐ 249 | 🐛 119 | 🌐 Nim | 📅 2026-10-05 - Implementation of the Waku v1 and v2 protocols.
+* [nwaku](https://github.com/status-im/nwaku) ⭐ 249 | 🐛 121 | 🌐 Nim | 📅 2026-10-06 - Implementation of the Waku v1 and v2 protocols.
 * [dimscord](https://github.com/krisppurg/dimscord) ⭐ 240 | 🐛 4 | 🌐 Nim | 📅 2026-06-21 - A Discord Bot & REST Library for Nim.
 * [telebot.nim](https://github.com/ba0f3/telebot.nim) ⭐ 192 | 🐛 0 | 🌐 Nim | 📅 2026-08-20 - Async client for Telegram Bot API in pure Nim.
 * [status](https://github.com/status-im/nim-status) ⭐ 9 | 🐛 37 | 🌐 Nim | 📅 2021-09-14 - Nim implementation of the Status protocol.
@@ -668,7 +668,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [templates](https://github.com/onionhammer/nim-templates) ⭐ 97 | 🐛 2 | 🌐 Nim | 📅 2019-10-20 - A simple string templating library for Nim.
 * [mustache](https://github.com/soasme/nim-mustache) ⭐ 75 | 🐛 2 | 🌐 Nim | 📅 2023-03-19 - A full implementation of v1.2.1 of the Mustache spec.
 * [html-dsl](https://github.com/juancarlospaco/nim-html-dsl) ⭐ 68 | 🐛 0 | 🌐 Nim | 📅 2020-04-14 - Nim HTML DSL.
-* [Tim](https://github.com/tim-engine/tim) ⭐ 68 | 🐛 5 | 🌐 Nim | 📅 2026-10-02 - A high-performance template engine & markup language.
+* [Tim](https://github.com/tim-engine/tim) ⭐ 68 | 🐛 5 | 🌐 Nim | 📅 2026-10-06 - A high-performance template engine & markup language.
 * [smalte](https://github.com/roquie/smalte) ⭐ 36 | 🐛 1 | 🌐 Nim | 📅 2021-12-08 - It is a dead simple and lightweight template engine. Specially designed for configure application before start in Docker.
 * [Nim Source Code filters](https://nim-lang.org/docs/filters.html) - Nim's powerful built-in feature which can be used as a templating system or a preprocessor.
 * [temple](https://codeberg.org/onbox/temple) - Simple run-time templating library for Nim.
@@ -687,7 +687,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Game Libraries
 
-* [GLAD](https://github.com/Dav1dde/glad) ⭐ 4,614 | 🐛 32 | 🌐 C | 📅 2026-09-28 - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+* [GLAD](https://github.com/Dav1dde/glad) ⭐ 4,614 | 🐛 31 | 🌐 C | 📅 2026-09-28 - Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
 * [enu](https://github.com/dsrw/enu) ⭐ 486 | 🐛 19 | 🌐 Nim | 📅 2026-07-28 - 3D live coding with a Logo-like DSL for Godot, implemented in Nim.
 * [nimgl](https://github.com/nimgl/nimgl) ⭐ 410 | 🐛 24 | 🌐 Nim | 📅 2024-07-15 - NimGL is a Nim library that offers bindings for popular libraries used in computer graphics.
 * [glm](https://github.com/stavenko/nim-glm) ⭐ 102 | 🐛 3 | 🌐 Nim | 📅 2026-05-18 - Port of the popular glm C++ library to Nim.
@@ -723,8 +723,8 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Editor Integration
 
-* [Editor Support](https://github.com/nim-lang/Nim/wiki/editor-support) ⭐ 18,253 | 🐛 2,229 | 🌐 Nim | 📅 2026-10-05 - Official list of editor plugins for Nim.
-* [nimlsp](https://github.com/PMunch/nimlsp) ⭐ 445 | 🐛 45 | 🌐 Nim | 📅 2026-02-09 - The Language Server Protocol implementation for Nim.
+* [Editor Support](https://github.com/nim-lang/Nim/wiki/editor-support) ⭐ 18,254 | 🐛 2,232 | 🌐 Nim | 📅 2026-10-06 - Official list of editor plugins for Nim.
+* [nimlsp](https://github.com/PMunch/nimlsp) ⭐ 446 | 🐛 45 | 🌐 Nim | 📅 2026-02-09 - The Language Server Protocol implementation for Nim.
 * [nim.nvim](https://github.com/alaviss/nim.nvim) ⭐ 215 | 🐛 17 | 🌐 Vim Script | 📅 2025-04-12 - Nim plugin for NeoVim.
 * [vscode-nim](https://github.com/saem/vscode-nim) ⭐ 171 | 🐛 56 | 🌐 Nim | 📅 2026-09-13 - Language support for the Nim programming language for VS Code.
 
@@ -742,7 +742,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [nimterop](https://github.com/nimterop/nimterop) ⭐ 374 | 🐛 62 | 🌐 Nim | 📅 2023-04-03 - A Nim package that leverages tree-sitter to make C/C++ interop seamless. Superseded by Futhark.
 * [jnim](https://github.com/yglukhov/jnim) ⭐ 211 | 🐛 0 | 🌐 Nim | 📅 2025-08-19 - Nim - Java bridge.
 * [nimgen](https://github.com/genotrance/nimgen) ⭐ 114 | 🐛 9 | 🌐 C | 📅 2021-09-01 - nimgen is a helper for c2nim to simplify and automate the wrapping of C libraries. Superseded by nimterop.
-* [denim](https://github.com/openpeeps/denim) ⭐ 55 | 🐛 1 | 🌐 Nim | 📅 2026-08-19 - Use Nim to build powerful Node.js/Bun addons via Node API (NAPI).
+* [denim](https://github.com/openpeeps/denim) ⭐ 55 | 🐛 1 | 🌐 Nim | 📅 2026-10-06 - Use Nim to build powerful Node.js/Bun addons via Node API (NAPI).
 
 <!-- - [rnim](https://github.com/SciNim/rnim) - A bridge between R and Nim. Currently this is a barely working prototype. -->
 
@@ -763,7 +763,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Logging
 
-* [chronicles](https://github.com/status-im/nim-chronicles) ⭐ 176 | 🐛 18 | 🌐 Nim | 📅 2026-10-03 - A crafty implementation of structured logging for Nim.
+* [chronicles](https://github.com/status-im/nim-chronicles) ⭐ 176 | 🐛 18 | 🌐 Nim | 📅 2026-10-06 - A crafty implementation of structured logging for Nim.
 * [kslog](https://github.com/c-blake/kslog) ⭐ 14 | 🐛 0 | 🌐 Nim | 📅 2026-06-18 - Minimalistic Kernel-Syslogd For Linux in Nim.
 * [threadlogging](https://codeberg.org/pswilde/threadlogging) - A thread safe logging library using Nim's own logging module.
 
@@ -772,7 +772,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [balls](https://github.com/disruptek/balls) ⭐ 70 | 🐛 9 | 🌐 Nim | 📅 2026-02-16 - A unittest macro to save the world, or at least your Sunday.
 * [einheit](https://github.com/jyapayne/einheit) ⭐ 46 | 🐛 1 | 🌐 Nim | 📅 2019-11-05 - A Nim unit testing library inspired by Python's unit tests.
 * [faker](https://github.com/jiro4989/faker) ⭐ 45 | 🐛 12 | 🌐 Nim | 📅 2026-06-19 - A Nim package that generates fake data for you.
-* [unittest2](https://github.com/status-im/nim-unittest2) ⭐ 32 | 🐛 12 | 🌐 Nim | 📅 2026-10-01 - Fork of the "unittest" Nim module focusing on parallel test execution, test-level scoping and strict exception handling.
+* [unittest2](https://github.com/status-im/nim-unittest2) ⭐ 32 | 🐛 12 | 🌐 Nim | 📅 2026-10-06 - Fork of the "unittest" Nim module focusing on parallel test execution, test-level scoping and strict exception handling.
 * [asynctest](https://github.com/status-im/asynctest) ⭐ 14 | 🐛 2 | 🌐 Nim | 📅 2025-04-08 - Complements the standard unittest module in Nim to allow testing of asynchronous code.
 
 ### Fuzzing
@@ -795,8 +795,8 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 * [docopt.nim](https://github.com/docopt/docopt.nim) ⭐ 215 | 🐛 6 | 🌐 Nim | 📅 2023-09-18 - Command-line args parser.
 * [argparse](https://github.com/iffy/nim-argparse) ⭐ 126 | 🐛 12 | 🌐 Nim | 📅 2024-08-16 - Argument parsing for Nim.
 * [cliche](https://github.com/juancarlospaco/cliche) ⭐ 86 | 🐛 2 | 🌐 Nim | 📅 2026-09-18 - AutoMagic CLI argument parsing is so cliché.
-* [confutils](https://github.com/status-im/nim-confutils) ⭐ 70 | 🐛 16 | 🌐 Nim | 📅 2026-10-03 - Simplified handling of command line options and config files
-* [kapsis](https://github.com/openpeeps/kapsis) ⭐ 40 | 🐛 1 | 🌐 Nim | 📅 2026-09-24 - An extensible, macro-based DSL with runtime dispatch, built-in validation, type checking, and plugins (shared libs) support.
+* [confutils](https://github.com/status-im/nim-confutils) ⭐ 70 | 🐛 16 | 🌐 Nim | 📅 2026-10-06 - Simplified handling of command line options and config files
+* [kapsis](https://github.com/openpeeps/kapsis) ⭐ 40 | 🐛 2 | 🌐 Nim | 📅 2026-09-24 - An extensible, macro-based DSL with runtime dispatch, built-in validation, type checking, and plugins (shared libs) support.
 * [loki](https://github.com/beshrkayali/loki) ⭐ 34 | 🐛 0 | 🌐 Nim | 📅 2026-06-06 - A small library for writing line-oriented command interpreters in Nim.
 * [clapfn](https://github.com/oliversandli/clapfn) ⭐ 17 | 🐛 0 | 🌐 Nim | 📅 2026-07-06 - Argument parsing similar to Python's argparse.
 * [cozycliparser](https://github.com/indiscipline/cozycliparser) ⭐ 5 | 🐛 0 | 🌐 Nim | 📅 2026-04-24 - Lean, feature-rich, DSL-free CLI parser based on `std/parseopt`. [Docs](https://indiscipline.github.io/cozycliparser/).
@@ -843,7 +843,7 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ### Tutorials
 
-* [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) ⭐ 18,253 | 🐛 2,229 | 🌐 Nim | 📅 2026-10-05 - Guide to Nim for people with experience in Python.
+* [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) ⭐ 18,254 | 🐛 2,232 | 🌐 Nim | 📅 2026-10-06 - Guide to Nim for people with experience in Python.
 * [nimNx](https://github.com/dkgitdev/nimNx) ⭐ 12 | 🐛 0 | 🌐 Nim | 📅 2022-12-03 - A Nintendo Switch Homebrew example project, written in Nim.
 * [nimNxStatic](https://github.com/dkgitdev/nimNxStatic) ⭐ 3 | 🐛 0 | 🌐 Makefile | 📅 2023-02-13 - A static library example aiming to help integrate Nim code into the current Homebrew C projects for Nintendo Switch
 * [Nim Days](https://xmonader.github.io/nimdays/) - A project to document my journey with Nim with mini applications, libraries documented from A to Z and also to provide new Nim users with some extra in depth information.
@@ -875,4 +875,4 @@ Also, unlike those above, which requires runtime dependancy, some pure-Nim libra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

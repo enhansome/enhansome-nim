@@ -17,8 +17,8 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T12:50:40Z",
-                "open_issues": 2219,
+                "last_commit": "2026-10-11T12:25:54Z",
+                "open_issues": 2202,
                 "owner": "nim-lang",
                 "repo": "Nim",
                 "stars": 18262,
@@ -194,7 +194,7 @@
                 "language": "Nim",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-09T13:04:10Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "nim-lang",
                 "repo": "packages",
                 "stars": 502,
@@ -225,7 +225,7 @@
                 "id": 99487140,
                 "language": "Nim",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T17:24:02Z",
+                "last_commit": "2026-10-11T09:25:26Z",
                 "open_issues": 44,
                 "owner": "fox0430",
                 "repo": "moe",
@@ -291,7 +291,7 @@
                 "language": "Nim",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-08T12:03:55Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "status-im",
                 "repo": "nim-chronos",
                 "stars": 413,
@@ -404,7 +404,7 @@
                 "open_issues": 9,
                 "owner": "status-im",
                 "repo": "nim-taskpools",
-                "stars": 123,
+                "stars": 122,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -794,7 +794,7 @@
                 "open_issues": 3,
                 "owner": "zero-functional",
                 "repo": "zero-functional",
-                "stars": 341,
+                "stars": 342,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -949,7 +949,7 @@
                 "open_issues": 6,
                 "owner": "andreaferretti",
                 "repo": "patty",
-                "stars": 281,
+                "stars": 282,
                 "topics": [
                   "nim",
                   "pattern-matching",
@@ -970,8 +970,8 @@
                 "id": 117284460,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-08-25T23:10:20Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-11T05:54:52Z",
+                "open_issues": 19,
                 "owner": "nitely",
                 "repo": "nim-regex",
                 "stars": 244,
@@ -1487,7 +1487,7 @@
                 "id": 276770166,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-10-10T05:28:41Z",
+                "last_commit": "2026-10-11T10:20:20Z",
                 "open_issues": 3,
                 "owner": "elijahr",
                 "repo": "lockfreequeues",
@@ -3440,7 +3440,7 @@
                 "open_issues": 5,
                 "owner": "openpeeps",
                 "repo": "marvdown",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "markdown",
                   "markdown-parser",
@@ -3469,7 +3469,7 @@
                 "open_issues": 0,
                 "owner": "openpeeps",
                 "repo": "openparser",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "bson",
                   "dotenv",
@@ -3696,7 +3696,7 @@
                 "open_issues": 4,
                 "owner": "status-im",
                 "repo": "nim-toml-serialization",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "configuration-file",
                   "nim",
@@ -4085,7 +4085,7 @@
                 "open_issues": 5,
                 "owner": "openpeeps",
                 "repo": "marvdown",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "markdown",
                   "markdown-parser",
@@ -4281,7 +4281,7 @@
                 "open_issues": 17,
                 "owner": "treeform",
                 "repo": "pixie",
-                "stars": 812,
+                "stars": 811,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -4778,7 +4778,7 @@
                 "open_issues": 5,
                 "owner": "capocasa",
                 "repo": "3code",
-                "stars": 102,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:57:14.349Z"
@@ -4806,7 +4806,7 @@
                 "open_issues": 0,
                 "owner": "openpeeps",
                 "repo": "chachachat",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "chat",
                   "chat-application",
@@ -5341,11 +5341,11 @@
                 "id": 141717232,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T12:52:57Z",
-                "open_issues": 207,
+                "last_commit": "2026-10-11T09:19:08Z",
+                "open_issues": 208,
                 "owner": "status-im",
                 "repo": "nimbus-eth2",
-                "stars": 662,
+                "stars": 661,
                 "topics": [
                   "beacon-chain",
                   "consensus-layer",
@@ -5372,8 +5372,8 @@
                 "id": 116221698,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T10:36:26Z",
-                "open_issues": 113,
+                "last_commit": "2026-10-11T08:33:23Z",
+                "open_issues": 112,
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
                 "stars": 633,
@@ -5406,8 +5406,8 @@
                 "id": 169217640,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T12:07:32Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-11T00:37:07Z",
+                "open_issues": 44,
                 "owner": "status-im",
                 "repo": "nim-eth",
                 "stars": 94,
@@ -5769,8 +5769,8 @@
                 "id": 1337752789,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-10T04:12:04Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-10T17:11:05Z",
+                "open_issues": 28,
                 "owner": "gokr",
                 "repo": "niffler",
                 "stars": 3,
@@ -6368,7 +6368,7 @@
                     "open_issues": 4,
                     "owner": "juancarlospaco",
                     "repo": "webgui",
-                    "stars": 147,
+                    "stars": 146,
                     "topics": [
                       "cordova",
                       "crossplatform-gui",
@@ -6491,7 +6491,7 @@
                     "open_issues": 0,
                     "owner": "johnnovak",
                     "repo": "koi",
-                    "stars": 112,
+                    "stars": 111,
                     "topics": [
                       "gui",
                       "imgui",
@@ -6705,8 +6705,8 @@
                 "id": 158147798,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T05:04:40Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-11T05:07:23Z",
+                "open_issues": 112,
                 "owner": "iftech",
                 "repo": "nim-libp2p",
                 "stars": 323,
@@ -6736,7 +6736,7 @@
                 "open_issues": 12,
                 "owner": "treeform",
                 "repo": "puppy",
-                "stars": 203,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -7190,7 +7190,7 @@
                     "id": 259536860,
                     "language": "Nim",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T12:53:13Z",
+                    "last_commit": "2026-10-11T03:59:54Z",
                     "open_issues": 139,
                     "owner": "logos-messaging",
                     "repo": "logos-delivery",
@@ -7215,7 +7215,7 @@
                     "open_issues": 4,
                     "owner": "krisppurg",
                     "repo": "dimscord",
-                    "stars": 240,
+                    "stars": 241,
                     "topics": [
                       "api",
                       "client",
@@ -7396,7 +7396,7 @@
                 "open_issues": 10,
                 "owner": "guzba",
                 "repo": "mummy",
-                "stars": 341,
+                "stars": 340,
                 "topics": [
                   "http",
                   "http-server",
@@ -7627,7 +7627,7 @@
                 "open_issues": 67,
                 "owner": "dom96",
                 "repo": "jester",
-                "stars": 1628,
+                "stars": 1627,
                 "topics": [
                   "framework",
                   "hacktoberfest",
@@ -7654,7 +7654,7 @@
                 "open_issues": 44,
                 "owner": "planety",
                 "repo": "prologue",
-                "stars": 1358,
+                "stars": 1357,
                 "topics": [
                   "async",
                   "async-web-applications",
@@ -7691,7 +7691,7 @@
                 "open_issues": 15,
                 "owner": "karaxnim",
                 "repo": "karax",
-                "stars": 1167,
+                "stars": 1166,
                 "topics": [
                   "nim-language",
                   "spa"
@@ -7754,7 +7754,7 @@
                 "open_issues": 16,
                 "owner": "dumblepy",
                 "repo": "nim-basolato",
-                "stars": 252,
+                "stars": 251,
                 "topics": [
                   "clean-architecture",
                   "ddd-architecture",
@@ -8006,7 +8006,7 @@
                 "open_issues": 14,
                 "owner": "enthus1ast",
                 "repo": "nimja",
-                "stars": 222,
+                "stars": 221,
                 "topics": [
                   "compile-time",
                   "compiled",
@@ -8462,7 +8462,7 @@
                 "id": 1341252562,
                 "language": "Nim",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-06T03:56:30Z",
+                "last_commit": "2026-10-11T10:25:36Z",
                 "open_issues": 0,
                 "owner": "puffball1567",
                 "repo": "bgfxim",
@@ -8914,8 +8914,8 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T12:50:40Z",
-                "open_issues": 2219,
+                "last_commit": "2026-10-11T12:25:54Z",
+                "open_issues": 2202,
                 "owner": "nim-lang",
                 "repo": "Nim",
                 "stars": 18262,
@@ -8948,7 +8948,7 @@
                 "open_issues": 45,
                 "owner": "PMunch",
                 "repo": "nimlsp",
-                "stars": 446,
+                "stars": 445,
                 "topics": [
                   "hacktoberfest",
                   "lsp-server"
@@ -9250,7 +9250,7 @@
                 "open_issues": 1,
                 "owner": "openpeeps",
                 "repo": "denim",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "bindings",
                   "cli-tool",
@@ -9293,7 +9293,7 @@
                 "open_issues": 262,
                 "owner": "nim-lang",
                 "repo": "nimble",
-                "stars": 1408,
+                "stars": 1409,
                 "topics": [
                   "nim",
                   "package-manager"
@@ -9347,7 +9347,7 @@
                 "open_issues": 9,
                 "owner": "nim-lang",
                 "repo": "atlas",
-                "stars": 152,
+                "stars": 153,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -9396,27 +9396,6 @@
             },
             {
               "node_type": "item",
-              "title": "nimby",
-              "description": "A very simple and unofficial package manager for Nim.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Nimby is an unofficial package manager and installer for the Nim programming language.",
-                "homepage": null,
-                "id": 189757977,
-                "language": "Nim",
-                "license": "MIT",
-                "last_commit": "2026-09-09T06:35:39Z",
-                "open_issues": 0,
-                "owner": "treeform",
-                "repo": "nimby",
-                "stars": 45,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T18:59:49.211Z"
-            },
-            {
-              "node_type": "item",
               "title": "nifty",
               "description": "A decentralized pseudo package manager and script runner.",
               "children": [],
@@ -9436,6 +9415,27 @@
                   "nim",
                   "package-manager"
                 ]
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "nimby",
+              "description": "A very simple and unofficial package manager for Nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nimby is an unofficial package manager and installer for the Nim programming language.",
+                "homepage": null,
+                "id": 189757977,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-09-09T06:35:39Z",
+                "open_issues": 0,
+                "owner": "treeform",
+                "repo": "nimby",
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
             },
@@ -10263,8 +10263,8 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T12:50:40Z",
-                "open_issues": 2219,
+                "last_commit": "2026-10-11T12:25:54Z",
+                "open_issues": 2202,
                 "owner": "nim-lang",
                 "repo": "Nim",
                 "stars": 18262,
@@ -10350,7 +10350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:01:44.259Z",
+    "last_updated": "2026-10-11T13:30:12.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nim frameworks, libraries, software and resources.",
@@ -10362,7 +10362,7 @@
       "open_issues": 12,
       "owner": "ringabout",
       "repo": "awesome-nim",
-      "stars": 1541,
+      "stars": 1539,
       "topics": [
         "awesome",
         "awesome-list",

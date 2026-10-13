@@ -17,11 +17,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T12:02:17Z",
-                "open_issues": 2205,
+                "last_commit": "2026-10-13T12:30:37Z",
+                "open_issues": 2208,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18265,
+                "stars": 18266,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -194,7 +194,7 @@
                 "language": "Nim",
                 "license": "CC-BY-4.0",
                 "last_commit": "2026-10-12T07:02:04Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "nim-lang",
                 "repo": "packages",
                 "stars": 502,
@@ -225,7 +225,7 @@
                 "id": 99487140,
                 "language": "Nim",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T15:23:26Z",
+                "last_commit": "2026-10-12T16:30:37Z",
                 "open_issues": 44,
                 "owner": "fox0430",
                 "repo": "moe",
@@ -1339,7 +1339,7 @@
                 "open_issues": 3,
                 "owner": "FemtoEmacs",
                 "repo": "nimacros",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -1373,7 +1373,7 @@
                 "open_issues": 22,
                 "owner": "khchen",
                 "repo": "winim",
-                "stars": 515,
+                "stars": 516,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -1487,7 +1487,7 @@
                 "id": 276770166,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-10-12T05:22:36Z",
+                "last_commit": "2026-10-13T05:33:10Z",
                 "open_issues": 2,
                 "owner": "elijahr",
                 "repo": "lockfreequeues",
@@ -1559,7 +1559,7 @@
                 "id": 1255380221,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-09-15T14:09:57Z",
+                "last_commit": "2026-10-13T10:10:27Z",
                 "open_issues": 0,
                 "owner": "openpeeps",
                 "repo": "flysystem",
@@ -4774,11 +4774,11 @@
                 "id": 1217872789,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-10-12T14:30:39Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-12T22:22:06Z",
+                "open_issues": 2,
                 "owner": "capocasa",
                 "repo": "3code",
-                "stars": 103,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-10-03T04:57:14.349Z"
@@ -4820,6 +4820,33 @@
                 ]
               },
               "first_seen": "2026-10-03T04:57:14.349Z"
+            },
+            {
+              "node_type": "item",
+              "title": "kavel",
+              "description": "Client for the Kavel image API: text-to-image and photo edits, with a free tier that needs no API key.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generate AI images from Nim with no API key and no account.",
+                "homepage": "https://www.kavel.ai",
+                "id": 1401434301,
+                "language": "Nim",
+                "license": "MIT",
+                "last_commit": "2026-10-02T09:15:01Z",
+                "open_issues": 0,
+                "owner": "hanshs474",
+                "repo": "kavel-nim",
+                "stars": 0,
+                "topics": [
+                  "ai",
+                  "image-generation",
+                  "nim",
+                  "nimble",
+                  "no-api-key"
+                ]
+              },
+              "first_seen": "2026-10-13T14:33:37.411Z"
             }
           ],
           "description": null,
@@ -5341,11 +5368,11 @@
                 "id": 141717232,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T16:00:43Z",
-                "open_issues": 208,
+                "last_commit": "2026-10-13T13:00:42Z",
+                "open_issues": 211,
                 "owner": "status-im",
                 "repo": "nimbus-eth2",
-                "stars": 661,
+                "stars": 662,
                 "topics": [
                   "beacon-chain",
                   "consensus-layer",
@@ -5372,7 +5399,7 @@
                 "id": 116221698,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T15:43:58Z",
+                "last_commit": "2026-10-13T14:07:33Z",
                 "open_issues": 112,
                 "owner": "status-im",
                 "repo": "nimbus-eth1",
@@ -5503,8 +5530,8 @@
                 "id": 303865390,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-09-30T02:09:17Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-13T01:03:13Z",
+                "open_issues": 21,
                 "owner": "guzba",
                 "repo": "zippy",
                 "stars": 283,
@@ -5655,7 +5682,7 @@
                 "open_issues": 5,
                 "owner": "johnnovak",
                 "repo": "illwill",
-                "stars": 471,
+                "stars": 470,
                 "topics": [
                   "gui",
                   "nim",
@@ -5682,7 +5709,7 @@
                 "open_issues": 40,
                 "owner": "joereynolds",
                 "repo": "jn",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "cli",
                   "notes",
@@ -5713,6 +5740,27 @@
                   "nim",
                   "terminal"
                 ]
+              },
+              "first_seen": "2026-08-28T18:59:49.211Z"
+            },
+            {
+              "node_type": "item",
+              "title": "niffler",
+              "description": "Command line AI assistant written in Nim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An easy to use component based coding harness that can extend itself.",
+                "homepage": null,
+                "id": 1337752789,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-10-12T20:15:47Z",
+                "open_issues": 29,
+                "owner": "gokr",
+                "repo": "niffler",
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
             },
@@ -5754,27 +5802,6 @@
                   "streaming",
                   "terminal"
                 ]
-              },
-              "first_seen": "2026-08-28T18:59:49.211Z"
-            },
-            {
-              "node_type": "item",
-              "title": "niffler",
-              "description": "Command line AI assistant written in Nim.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An easy to use component based coding harness that can extend itself.",
-                "homepage": null,
-                "id": 1337752789,
-                "language": "C",
-                "license": null,
-                "last_commit": "2026-10-10T17:11:05Z",
-                "open_issues": 28,
-                "owner": "gokr",
-                "repo": "niffler",
-                "stars": 4,
-                "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
             },
@@ -5957,7 +5984,7 @@
                     "open_issues": 65,
                     "owner": "simonkrauter",
                     "repo": "NiGui",
-                    "stars": 785,
+                    "stars": 784,
                     "topics": [
                       "cross-platform",
                       "gtk",
@@ -6058,7 +6085,7 @@
                     "open_issues": 2,
                     "owner": "neroist",
                     "repo": "uing",
-                    "stars": 193,
+                    "stars": 192,
                     "topics": [
                       "cross-platform",
                       "gui",
@@ -6261,11 +6288,11 @@
                     "id": 299354262,
                     "language": "Nim",
                     "license": "MIT",
-                    "last_commit": "2026-10-12T15:52:07Z",
+                    "last_commit": "2026-10-13T01:31:18Z",
                     "open_issues": 1,
                     "owner": "Niminem",
                     "repo": "Neel",
-                    "stars": 252,
+                    "stars": 258,
                     "topics": [
                       "desktop-app",
                       "desktop-application",
@@ -6705,8 +6732,8 @@
                 "id": 158147798,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T16:00:40Z",
-                "open_issues": 117,
+                "last_commit": "2026-10-13T14:23:41Z",
+                "open_issues": 121,
                 "owner": "iftech",
                 "repo": "nim-libp2p",
                 "stars": 323,
@@ -7190,8 +7217,8 @@
                     "id": 259536860,
                     "language": "Nim",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T16:04:12Z",
-                    "open_issues": 146,
+                    "last_commit": "2026-10-13T14:02:12Z",
+                    "open_issues": 147,
                     "owner": "logos-messaging",
                     "repo": "logos-delivery",
                     "stars": 249,
@@ -7474,7 +7501,7 @@
                 "open_issues": 2,
                 "owner": "zenywallet",
                 "repo": "caprese",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "https",
                   "reverse-proxy",
@@ -8194,7 +8221,7 @@
                 "id": 595120171,
                 "language": "Nim",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:41:31Z",
+                "last_commit": "2026-10-12T21:44:51Z",
                 "open_issues": 0,
                 "owner": "openpeeps",
                 "repo": "valido",
@@ -8328,7 +8355,7 @@
                 "open_issues": 32,
                 "owner": "Dav1dde",
                 "repo": "glad",
-                "stars": 4612,
+                "stars": 4613,
                 "topics": [
                   "c",
                   "code-generation",
@@ -8920,11 +8947,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T12:02:17Z",
-                "open_issues": 2205,
+                "last_commit": "2026-10-13T12:30:37Z",
+                "open_issues": 2208,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18265,
+                "stars": 18266,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -9296,10 +9323,10 @@
                 "language": "Nim",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T15:30:00Z",
-                "open_issues": 262,
+                "open_issues": 264,
                 "owner": "nim-lang",
                 "repo": "nimble",
-                "stars": 1409,
+                "stars": 1410,
                 "topics": [
                   "nim",
                   "package-manager"
@@ -9395,7 +9422,7 @@
                 "open_issues": 28,
                 "owner": "nim-lang",
                 "repo": "choosenim",
-                "stars": 135,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:59:49.211Z"
@@ -10269,11 +10296,11 @@
                 "id": 842037,
                 "language": "Nim",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T12:02:17Z",
-                "open_issues": 2205,
+                "last_commit": "2026-10-13T12:30:37Z",
+                "open_issues": 2208,
                 "owner": "nim-lang",
                 "repo": "Nim",
-                "stars": 18265,
+                "stars": 18266,
                 "topics": [
                   "compiler",
                   "efficient",
@@ -10356,7 +10383,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:04:53.840Z",
+    "last_updated": "2026-10-13T14:33:37.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Nim frameworks, libraries, software and resources.",
@@ -10364,7 +10391,7 @@
       "id": 287497982,
       "language": "Nim",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-08T14:42:48Z",
+      "last_commit": "2026-10-13T11:28:25Z",
       "open_issues": 12,
       "owner": "ringabout",
       "repo": "awesome-nim",
@@ -10377,7 +10404,7 @@
         "nim-language"
       ]
     },
-    "original_repository_sha": "4aa35c64992ad8a19f7de2f3b714d8e67da6c69c",
+    "original_repository_sha": "02d49e68290cbe079622acbe66437781d71ca4c7",
     "enhanced_repository": "enhansome/enhansome-nim",
     "enhanced_repository_description": null,
     "title": "Awesome nim with stars"
